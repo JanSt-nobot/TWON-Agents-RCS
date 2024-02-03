@@ -6,7 +6,7 @@ from .base import BaseRequest
 
 class ReplyRequest(BaseRequest):
     thread: platform.Thread
-    length: Literal['few-word', 'single-sentence', 'short', 'long'] = 'few-word'
+    length: Literal['50', '100', '200', '280'] = '100'
 
     model_config = {
         "json_schema_extra": {
