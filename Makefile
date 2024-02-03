@@ -8,13 +8,13 @@ update:
 	sudo supervisorctl restart twon-api
 
 test:
-	@python3 -m pytest tests/
+	@python -m pytest tests/
 
 
 # --- --- ---
 
 dev:
-	@python3 -m uvicorn api:app --reload
+	@python -m uvicorn api:app --reload
 
 serve:
-	@python3 -m uvicorn api:app
+	@python -m uvicorn api:app
