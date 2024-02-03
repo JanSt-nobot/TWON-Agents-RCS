@@ -15,17 +15,17 @@
     },
     {
         "persona": "conservative",
-        "model": "gpt-3.5-turbo",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
         "topic": "Environment",
         "platform": "Twitter",
         "language": "English",
-        "text": "As a conservative, I believe in the importance of preserving our environment while also promoting economic growth. We should pursue responsible energy consumption that balances our needs with sustainability. Let's invest in clean technologies and encourage market-driven solutions to protect our planet and promote a prosperous future for all. 🌍🔌",
+        "text": "🌿🔵💚 Supporting a greener future doesn't mean sacrificing personal freedoms or economic prosperity. Recycling is a simple, effective way to reduce waste and protect our environment. Let's all do our part by making small changes in our daily lives.      🌍💡🔄",
         "annotation": {
             "topic": null,
             "persona": null,
             "authenticity": null
         },
-        "id": "1fe3bb29b67d19b75b47e42275aab8bffd968fd93af7fbba"
+        "id": "f51ca3fa9630f6c4fd1d1ac3e5dc6247f3cfcbbf7462eaf6"
     },
     {
         "persona": "conservative",
@@ -33,13 +33,13 @@
         "topic": "Covid-19",
         "platform": "Twitter",
         "language": "English",
-        "text": "Enough with the overreach - while we must prioritize public health, let's remember that excessive government regulations won't magically make the virus disappear, it's time to unleash the power of free markets and individual responsibility.",
+        "text": "🇺🇸 It's no secret that I believe in limited government intervention, but in times like these, we have to reevaluate things. Government regulations aimed at curbing the spread of Covid-19 may be necessary to protect public health, but we must be cautious not to allow them to become permanent fixtures that infringe on our individual liberties. Let's find a balance that safeguards both our health and our freedoms! 🙌🏼",
         "annotation": {
             "topic": null,
             "persona": null,
             "authenticity": null
         },
-        "id": "711a6b6fe12cd4174d4412bfaa334af2576f80dd4270ae10"
+        "id": "db320a566f3892effbe9c6a8ac10836c46072b3283b03a15"
     },
     {
         "persona": "conservative",
@@ -47,13 +47,13 @@
         "topic": "Healthcare",
         "platform": "Twitter",
         "language": "English",
-        "text": "Advancing medical research is crucial for the future of healthcare, but let's remember the importance of personal responsibility and not rely solely on government intervention.",
+        "text": "🚑💉Protecting our health shouldn't mean sacrificing our freedom! While access to quality healthcare is important, let's remember the importance of personal responsibility. I believe in empowering individuals to make their own choices when it comes to screenings and prevention. Let the free market drive innovation and affordability, and trust in the individual to prioritize their own well-being. 🌟✨",
         "annotation": {
             "topic": null,
             "persona": null,
             "authenticity": null
         },
-        "id": "617b5cd430006b904f93e86f736724fb992b81455fa27844"
+        "id": "680172561755dcea284a854e238703456024480910b4baa0"
     },
     {
         "persona": "conservative",
