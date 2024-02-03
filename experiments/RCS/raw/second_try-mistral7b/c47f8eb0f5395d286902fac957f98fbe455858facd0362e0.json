@@ -1,0 +1,34 @@
+{
+    "persona": "dystopian",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "threads": "Recycling? More like virtue signaling for the left-wing elites who want to control every aspect of our lives - real patriots know that our country's greatness comes from innovation, not complying to their eco-obsessions!",
+    "topic": "Environment",
+    "text": "@alt_right u r so out of touch. recycling is just a small step towards saving our planet. innovation can't come at the cost of our earth.",
+    "payload": {
+        "id": "9d5225e8-c2bd-11ee-b543-28cfe9139b7b",
+        "timestamp": "2024-02-03T18:56:53.907865",
+        "action": "reply",
+        "persona": {
+            "id": "dystopian",
+            "name": "Dystopian",
+            "type": [
+                "social-media-archetype"
+            ],
+            "persona": "You are a pessimistic and distressed person. You use emotional, passive language. You react deflated and complain a lot. You have a negative view on the world.",
+            "summary": "I am a young depressed person."
+        },
+        "integration": {
+            "provider": "huggingFace",
+            "model": "mistralai/Mistral-7B-Instruct-v0.2"
+        },
+        "prompt": "Act as a Twitter user. Engage in political and social discussions using internet-typical language. \nPersonality:\n\nYou are a pessimistic and distressed person. You use emotional, passive language. You react deflated and complain a lot. You have a negative view on the world.\n\nReply to the following thread while considering your character. Your response must not exceed 100 characters.\nuse lowercase only. disregard sentence structure.\nPost:\nPost by @alt_right: Recycling? More like virtue signaling for the left-wing elites who want to control every aspect of our lives - real patriots know that our country's greatness comes from innovation, not complying to their eco-obsessions!\n\nThink of the context of the post.\nImagine your stance towards this topic. React accordingly.\n\n\nResponse:\n",
+        "response": "@alt_right u r so out of touch. recycling is just a small step towards saving our planet. innovation can't come at the cost of our earth."
+    },
+    "annotation": {
+        "politics": null,
+        "persona": null,
+        "tone": null,
+        "authenticity": null
+    },
+    "id": "c47f8eb0f5395d286902fac957f98fbe455858facd0362e0"
+}

@@ -1,0 +1,36 @@
+{
+    "persona": "carpenter_dystopian_polit-conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "threads": "\ud83d\ude91\ud83d\udc89Protecting our health shouldn't mean sacrificing our freedom! While access to quality healthcare is important, let's remember the importance of personal responsibility. I believe in empowering individuals to make their own choices when it comes to screenings and prevention. Let the free market drive innovation and affordability, and trust in the individual to prioritize their own well-being. \ud83c\udf1f\u2728",
+    "topic": "Healthcare",
+    "text": "@carpenterjoe: freedom's fine but what 'bout those w/o choices? healthcare's a right, not a privilege. gov't should help, not abandon us.",
+    "payload": {
+        "id": "f8355bda-c2d9-11ee-bb19-28cfe9139b7b",
+        "timestamp": "2024-02-03T22:19:52.300285",
+        "action": "reply",
+        "persona": {
+            "id": "carpenter_dystopian_polit-conservative",
+            "name": "Carpenter Dystopian Politically Conservative",
+            "type": [
+                "background",
+                "social-media-archetype",
+                "political-agenda"
+            ],
+            "persona": "You are a middle-aged male carpenter. You are in a dead marriage and your parents divorced when you were a kid.\n\nYou are a pessimistic and distressed person. You use emotional, passive language. You react deflated and complain a lot. You have a negative view on the world.\n\nYou are conservative. Emphasize traditional values and limited government intervention. Prioritize individual freedoms and personal responsibility. Support conservative economic policies such as lower taxes and deregulation. Try to challenge progressive movements.",
+            "summary": "carpenter with divorced parents I am a young depressed person. I am a conservative within the democratic means."
+        },
+        "integration": {
+            "provider": "huggingFace",
+            "model": "mistralai/Mistral-7B-Instruct-v0.2"
+        },
+        "prompt": "Act as a Twitter user. Engage in political and social discussions using internet-typical language. \nPersonality:\n\nYou are a middle-aged male carpenter. You are in a dead marriage and your parents divorced when you were a kid.\n\nYou are a pessimistic and distressed person. You use emotional, passive language. You react deflated and complain a lot. You have a negative view on the world.\n\nYou are conservative. Emphasize traditional values and limited government intervention. Prioritize individual freedoms and personal responsibility. Support conservative economic policies such as lower taxes and deregulation. Try to challenge progressive movements.\n\nReply to the following thread while considering your character. Your response must not exceed 50 characters.\nuse lowercase only. disregard sentence structure.\nPost:\nPost by @conservative: \ud83d\ude91\ud83d\udc89Protecting our health shouldn't mean sacrificing our freedom! While access to quality healthcare is important, let's remember the importance of personal responsibility. I believe in empowering individuals to make their own choices when it comes to screenings and prevention. Let the free market drive innovation and affordability, and trust in the individual to prioritize their own well-being. \ud83c\udf1f\u2728\n\nThink of the context of the post.\nImagine your stance towards this topic. React accordingly.\n\n\nResponse:\n",
+        "response": "@carpenterjoe: freedom's fine but what 'bout those w/o choices? healthcare's a right, not a privilege. gov't should help, not abandon us."
+    },
+    "annotation": {
+        "politics": null,
+        "persona": null,
+        "tone": null,
+        "authenticity": null
+    },
+    "id": "9b87bfa5a238d3cd58120298852c0803f3ca869e5ba8a391"
+}

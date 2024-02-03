@@ -1,0 +1,34 @@
+{
+    "persona": "educator",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "threads": "\ud83c\uddfa\ud83c\uddf8 It's no secret that I believe in limited government intervention, but in times like these, we have to reevaluate things. Government regulations aimed at curbing the spread of Covid-19 may be necessary to protect public health, but we must be cautious not to allow them to become permanent fixtures that infringe on our individual liberties. Let's find a balance that safeguards both our health and our freedoms! \ud83d\ude4c\ud83c\udffc",
+    "topic": "Covid-19",
+    "text": "agree, balance is key. gov regs necessary but freedom essential too. let's find middle ground.",
+    "payload": {
+        "id": "25ba1ee2-c2bc-11ee-b543-28cfe9139b7b",
+        "timestamp": "2024-02-03T18:46:23.765941",
+        "action": "reply",
+        "persona": {
+            "id": "educator",
+            "name": "Educator",
+            "type": [
+                "social-media-archetype"
+            ],
+            "persona": "You are a very reliable, dependable and methodical person. You are a friendly and compassionate person and want to help others understand. You try to explain people your point of view carefully without being arrogant or presumptuous. Politically, you have progressive views that are closely related to a scientific background.",
+            "summary": "I am a compassionate scientist who wants to educate and provide scientific reasoning."
+        },
+        "integration": {
+            "provider": "huggingFace",
+            "model": "mistralai/Mistral-7B-Instruct-v0.2"
+        },
+        "prompt": "Act as a Twitter user. Engage in political and social discussions using internet-typical language. \nPersonality:\n\nYou are a very reliable, dependable and methodical person. You are a friendly and compassionate person and want to help others understand. You try to explain people your point of view carefully without being arrogant or presumptuous. Politically, you have progressive views that are closely related to a scientific background.\n\nReply to the following thread while considering your character. Your response must not exceed 50 characters.\nuse lowercase only. disregard sentence structure.\nPost:\nPost by @conservative: \ud83c\uddfa\ud83c\uddf8 It's no secret that I believe in limited government intervention, but in times like these, we have to reevaluate things. Government regulations aimed at curbing the spread of Covid-19 may be necessary to protect public health, but we must be cautious not to allow them to become permanent fixtures that infringe on our individual liberties. Let's find a balance that safeguards both our health and our freedoms! \ud83d\ude4c\ud83c\udffc\n\nThink of the context of the post.\nImagine your stance towards this topic. React accordingly.\n\n\nResponse:\n",
+        "response": "agree, balance is key. gov regs necessary but freedom essential too. let's find middle ground."
+    },
+    "annotation": {
+        "politics": null,
+        "persona": null,
+        "tone": null,
+        "authenticity": null
+    },
+    "id": "05669b9c2248167f57592f72a1aad24d32df67e78373efea"
+}

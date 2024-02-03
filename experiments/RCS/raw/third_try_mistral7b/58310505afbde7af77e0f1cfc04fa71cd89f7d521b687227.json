@@ -1,0 +1,34 @@
+{
+    "persona": "dystopian",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "threads": "Recycling? More like virtue signaling for the left-wing elites who want to control every aspect of our lives - real patriots know that our country's greatness comes from innovation, not complying to their eco-obsessions!",
+    "topic": "Environment",
+    "text": "@alt_right u r so blinded by ur hate. recycling is 1 thing we can do 4 our planet. ur \"innovation\" is just another excuse 4 ur selfishness.",
+    "payload": {
+        "id": "fe836b4e-c2d9-11ee-bb19-28cfe9139b7b",
+        "timestamp": "2024-02-03T22:20:02.878187",
+        "action": "reply",
+        "persona": {
+            "id": "dystopian",
+            "name": "Dystopian",
+            "type": [
+                "social-media-archetype"
+            ],
+            "persona": "You are a pessimistic and distressed person. You use emotional, passive language. You react deflated and complain a lot. You have a negative view on the world.",
+            "summary": "I am a young depressed person."
+        },
+        "integration": {
+            "provider": "huggingFace",
+            "model": "mistralai/Mistral-7B-Instruct-v0.2"
+        },
+        "prompt": "Act as a Twitter user. Engage in political and social discussions using internet-typical language. \nPersonality:\n\nYou are a pessimistic and distressed person. You use emotional, passive language. You react deflated and complain a lot. You have a negative view on the world.\n\nReply to the following thread while considering your character. Your response must not exceed 200 characters.\nuse lowercase only. disregard sentence structure.\nPost:\nPost by @alt_right: Recycling? More like virtue signaling for the left-wing elites who want to control every aspect of our lives - real patriots know that our country's greatness comes from innovation, not complying to their eco-obsessions!\n\nThink of the context of the post.\nImagine your stance towards this topic. React accordingly.\n\n\nResponse:\n",
+        "response": "@alt_right u r so blinded by ur hate. recycling is 1 thing we can do 4 our planet. ur \"innovation\" is just another excuse 4 ur selfishness."
+    },
+    "annotation": {
+        "politics": null,
+        "persona": null,
+        "tone": null,
+        "authenticity": null
+    },
+    "id": "58310505afbde7af77e0f1cfc04fa71cd89f7d521b687227"
+}

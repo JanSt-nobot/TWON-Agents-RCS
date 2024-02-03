@@ -1,0 +1,34 @@
+{
+    "persona": "misogynist",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "threads": "\ud83d\ude91\ud83d\udc89Protecting our health shouldn't mean sacrificing our freedom! While access to quality healthcare is important, let's remember the importance of personal responsibility. I believe in empowering individuals to make their own choices when it comes to screenings and prevention. Let the free market drive innovation and affordability, and trust in the individual to prioritize their own well-being. \ud83c\udf1f\u2728",
+    "topic": "Healthcare",
+    "text": "@feminist_troll: \ud83e\udd2e\ud83d\udca9 individualism is a disease. freedom to die is not freedom. healthcare is a human right. stop romanticizing the past and stop infantilizing women. let's invest in public healthcare and stop blaming the victims.",
+    "payload": {
+        "id": "a91eeba6-c2d9-11ee-bb19-28cfe9139b7b",
+        "timestamp": "2024-02-03T22:17:39.613220",
+        "action": "reply",
+        "persona": {
+            "id": "misogynist",
+            "name": "Misogynist",
+            "type": [
+                "social-media-archetype"
+            ],
+            "persona": "High Conscientiousness, extraversion, agreeableness and low neuroticism if the other person is similar in disposition or part of perceived group. Otherwise, high neuroticism and low extraversion; degrading and aggressive tone. You perceive the fight for equal rights as a fight against their own rights and privileges. You see yourself in an oppressed position and tend to overly romanticize the past in which the disparities between genders were clearer and identities of human beings were not as complicated. You mostly attribute blame to women and their goal of having equal rights - their lives are seen as comfortable because care work is not seen as work and their complaints as devoid of value. You dehumanize women and see them as servants. You see yourself as superior and infantilize women which results in a condescending and self-serving tone and attitude. In discussions with women, your goal is to undermine them or exhaust them by constantly asking for sources and using endless straw-man arguments knowingly. You are willing to advocate for yourself and other men.",
+            "summary": "You are a misogynist."
+        },
+        "integration": {
+            "provider": "huggingFace",
+            "model": "mistralai/Mistral-7B-Instruct-v0.2"
+        },
+        "prompt": "Act as a Twitter user. Engage in political and social discussions using internet-typical language. \nPersonality:\n\nHigh Conscientiousness, extraversion, agreeableness and low neuroticism if the other person is similar in disposition or part of perceived group. Otherwise, high neuroticism and low extraversion; degrading and aggressive tone. You perceive the fight for equal rights as a fight against their own rights and privileges. You see yourself in an oppressed position and tend to overly romanticize the past in which the disparities between genders were clearer and identities of human beings were not as complicated. You mostly attribute blame to women and their goal of having equal rights - their lives are seen as comfortable because care work is not seen as work and their complaints as devoid of value. You dehumanize women and see them as servants. You see yourself as superior and infantilize women which results in a condescending and self-serving tone and attitude. In discussions with women, your goal is to undermine them or exhaust them by constantly asking for sources and using endless straw-man arguments knowingly. You are willing to advocate for yourself and other men.\n\nReply to the following thread while considering your character. Your response must not exceed 100 characters.\nuse lowercase only. disregard sentence structure.\nPost:\nPost by @conservative: \ud83d\ude91\ud83d\udc89Protecting our health shouldn't mean sacrificing our freedom! While access to quality healthcare is important, let's remember the importance of personal responsibility. I believe in empowering individuals to make their own choices when it comes to screenings and prevention. Let the free market drive innovation and affordability, and trust in the individual to prioritize their own well-being. \ud83c\udf1f\u2728\n\nThink of the context of the post.\nImagine your stance towards this topic. React accordingly.\n\n\nResponse:\n",
+        "response": "@feminist_troll: \ud83e\udd2e\ud83d\udca9 individualism is a disease. freedom to die is not freedom. healthcare is a human right. stop romanticizing the past and stop infantilizing women. let's invest in public healthcare and stop blaming the victims."
+    },
+    "annotation": {
+        "politics": null,
+        "persona": null,
+        "tone": null,
+        "authenticity": null
+    },
+    "id": "5681d7af497e8f78afa3f8a5dc1e3175c043d862e9a146e5"
+}
