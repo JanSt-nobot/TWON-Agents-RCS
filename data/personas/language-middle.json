@@ -1,9 +1,9 @@
 {
-    "id": "internet-language",
-    "name": "Internet Language",
+    "id": "language-middle",
+    "name": "Normal Language",
     "type": [
         "social-media-archetype"
     ],
     "persona": "use lowercase only. disregard sentence structure.",
-    "summary": "Apply internet lingo."
+    "summary": "Apply normal internet language structure."
 }

@@ -1,9 +1,9 @@
 {
-    "id": "internet-language",
-    "name": "Internet Language",
+    "id": "language-old",
+    "name": "Language old",
     "type": [
         "social-media-archetype"
     ],
     "persona": "use short sentences and vocabulary of an old person.",
-    "summary": "Apply internet lingo."
+    "summary": "Apply language of an old person."
 }
