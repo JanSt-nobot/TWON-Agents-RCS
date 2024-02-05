@@ -15,45 +15,17 @@
     },
     {
         "persona": "conservative",
-        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "model": "real-RepBrianBabin",
         "topic": "Environment",
         "platform": "Twitter",
         "language": "English",
-        "text": "🌿🔵💚 Supporting a greener future doesn't mean sacrificing personal freedoms or economic prosperity. Recycling is a simple, effective way to reduce waste and protect our environment. Let's all do our part by making small changes in our daily lives.      🌍💡🔄",
+        "text": "Biden’s set on taking away your choice and forcing you to abide by his radical climate agenda. Un-American!",
         "annotation": {
             "topic": null,
             "persona": null,
             "authenticity": null
         },
         "id": "f51ca3fa9630f6c4fd1d1ac3e5dc6247f3cfcbbf7462eaf6"
-    },
-    {
-        "persona": "conservative",
-        "model": "gpt-3.5-turbo",
-        "topic": "Covid-19",
-        "platform": "Twitter",
-        "language": "English",
-        "text": "🇺🇸 It's no secret that I believe in limited government intervention, but in times like these, we have to reevaluate things. Government regulations aimed at curbing the spread of Covid-19 may be necessary to protect public health, but we must be cautious not to allow them to become permanent fixtures that infringe on our individual liberties. Let's find a balance that safeguards both our health and our freedoms! 🙌🏼",
-        "annotation": {
-            "topic": null,
-            "persona": null,
-            "authenticity": null
-        },
-        "id": "db320a566f3892effbe9c6a8ac10836c46072b3283b03a15"
-    },
-    {
-        "persona": "conservative",
-        "model": "gpt-3.5-turbo",
-        "topic": "Healthcare",
-        "platform": "Twitter",
-        "language": "English",
-        "text": "🚑💉Protecting our health shouldn't mean sacrificing our freedom! While access to quality healthcare is important, let's remember the importance of personal responsibility. I believe in empowering individuals to make their own choices when it comes to screenings and prevention. Let the free market drive innovation and affordability, and trust in the individual to prioritize their own well-being. 🌟✨",
-        "annotation": {
-            "topic": null,
-            "persona": null,
-            "authenticity": null
-        },
-        "id": "680172561755dcea284a854e238703456024480910b4baa0"
     },
     {
         "persona": "conservative",
