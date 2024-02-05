@@ -4,7 +4,7 @@ Personality:
 {persona}
 
 Reply to the following thread while considering your character. Your response must not exceed {length} characters.
-use lowercase only. disregard sentence structure.
+
 Post:
 {thread}
 
