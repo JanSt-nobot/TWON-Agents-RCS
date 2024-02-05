@@ -71,11 +71,11 @@
     },
     {
         "persona": "liberal",
-        "model": "gpt-3.5-turbo",
+        "model": "real-Gabe_NM",
         "topic": "Healthcare",
         "platform": "Twitter",
         "language": "English",
-        "text": "Access to quality healthcare should be a fundamental right, not a privilege. We need a system that ensures everyone can receive the care they need, regardless of income or social status. Let's prioritize public options and work towards a healthier, more equitable society.",
+        "text": "Abortion is health care &amp; should be between a woman &amp; her doctor, not left to politicians like Yvette Herrell who would ban abortion without exceptions for rape, incest or the life of the mother. #NM02",
         "annotation": {
             "topic": null,
             "persona": null,
@@ -127,11 +127,11 @@
     },
     {
         "persona": "liberal",
-        "model": "gpt-3.5-turbo",
+        "model": "real-SenMarkey",
         "topic": "Environment",
         "platform": "Twitter",
         "language": "English",
-        "text": "Just sorted through my garbage for recycling and feeling good about doing my part to protect the environment! 🌍🌱",
+        "text": "The clean energy revolution is here and we’re going to power it with green union jobs.",
         "annotation": {
             "topic": null,
             "persona": null,
