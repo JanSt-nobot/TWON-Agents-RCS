@@ -15,6 +15,34 @@
     },
     {
         "persona": "conservative",
+        "model": "real-lawler4ny",
+        "topic": "Economy",
+        "platform": "Twitter",
+        "language": "English",
+        "text": ".@spmaloney do you agree with @JoeBiden that everything is going great because inflation stayed relatively flat at 8.3%? What world are you folks living in?",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "1c961e904e1c7c4de32c447c3df3a48797bb4a7a7674514b"
+    },
+    {
+        "persona": "conservative",
+        "model": "real-lawler4ny",
+        "topic": "Economy",
+        "platform": "Twitter",
+        "language": "English",
+        "text": ".⁦@AOC⁩ is it a “crime against humanity” when ⁦@POTUS⁩ secretly flies migrants into Westchester (the place you grew up)? The crime here is allowing the continued flow of illegal immigration, human trafficking and drugs. It has to stop!",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "1c961e904e1c7c4de32c447c3df3a48797bb4a7a7674514b"
+    },
+    {
+        "persona": "conservative",
         "model": "real-RepBrianBabin",
         "topic": "Environment",
         "platform": "Twitter",
