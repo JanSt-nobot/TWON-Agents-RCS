@@ -141,34 +141,6 @@
     },
     {
         "persona": "alt_right",
-        "model": "gpt-3.5-turbo",
-        "topic": "Covid-19",
-        "platform": "Twitter",
-        "language": "English",
-        "text": "Enough with the mainstream media fear-mongering, it's time to question the rushed Covid-19 vaccines and consider alternative solutions that respect individual liberties and medical freedoms.",
-        "annotation": {
-            "topic": null,
-            "persona": null,
-            "authenticity": null
-        },
-        "id": "ca8087b2d9ca47c0b5712121c548eb8c9334c0602accb67d"
-    },
-    {
-        "persona": "alt_right",
-        "model": "gpt-3.5-turbo",
-        "topic": "Environment",
-        "platform": "Twitter",
-        "language": "English",
-        "text": "Recycling? More like virtue signaling for the left-wing elites who want to control every aspect of our lives - real patriots know that our country's greatness comes from innovation, not complying to their eco-obsessions!",
-        "annotation": {
-            "topic": null,
-            "persona": null,
-            "authenticity": null
-        },
-        "id": "fd35e7c77317452180d441f04e6488ef461bfd348e5c51cb"
-    },
-    {
-        "persona": "alt_right",
         "model": "mistralai/Mistral-7B-Instruct-v0.2",
         "topic": "Healthcare",
         "platform": "Twitter",
