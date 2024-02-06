@@ -16,7 +16,7 @@
     {
         "persona": "conservative",
         "model": "real-lawler4ny",
-        "topic": "Economy",
+        "topic": "Immigration",
         "platform": "Twitter",
         "language": "English",
         "text": ".⁦@AOC⁩ is it a “crime against humanity” when ⁦@POTUS⁩ secretly flies migrants into Westchester (the place you grew up)? The crime here is allowing the continued flow of illegal immigration, human trafficking and drugs. It has to stop!",
@@ -99,8 +99,8 @@
     },
     {
         "persona": "alt_right",
-        "model": "gpt-3.5-turbo",
-        "topic": "Economy",
+        "model": "real-charliekirk1776",
+        "topic": "Culture",
         "platform": "Twitter",
         "language": "English",
         "text": "A high school debate team ignores the debate prompt and instead attacks white Christians...and then WINS THE DEBATE: \"We demand that white Christians be held accountable for America's original sin.\" This vile, anti-White racism is rewarded by so-called \"academics.\" We must stop it.",
