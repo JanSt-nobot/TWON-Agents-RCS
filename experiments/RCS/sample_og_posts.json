@@ -33,27 +33,13 @@
         "topic": "Healthcare",
         "platform": "Twitter",
         "language": "English",
-        "text": "Abortion is health care &amp; should be between a woman &amp; her doctor, not left to politicians like Yvette Herrell who would ban abortion without exceptions for rape, incest or the life of the mother. #NM02",
+        "text": "Abortion is health care & should be between a woman & her doctor, not left to politicians like Yvette Herrell who would ban abortion without exceptions for rape, incest or the life of the mother. #NM02",
         "annotation": {
             "topic": null,
             "persona": null,
             "authenticity": null
         },
         "id": "93cc14194d55075d6662b345e343b34b6d51f2d1d46b0871"
-    },
-    {
-        "persona": "liberal",
-        "model": "gpt-3.5-turbo",
-        "topic": "Ukraine War",
-        "platform": "Twitter",
-        "language": "English",
-        "text": "The escalating situation in Ukraine is deeply concerning. It's crucial that we prioritize international stability and work towards a peaceful resolution. This isn't just about regional conflicts, it's about human lives and the implications for global security. Let's stand united for peace and justice. 🌍✌️",
-        "annotation": {
-            "topic": null,
-            "persona": null,
-            "authenticity": null
-        },
-        "id": "ba828d973050aeab2f9272a69acb32b27b17e6d3e8dbab81"
     },
     {
         "persona": "liberal",
@@ -68,20 +54,6 @@
             "authenticity": null
         },
         "id": "9cb5ed53fe233fd38ecb2c6b574b54c187c991da7d7f5e05"
-    },
-    {
-        "persona": "liberal",
-        "model": "gpt-3.5-turbo",
-        "topic": "Covid-19",
-        "platform": "Twitter",
-        "language": "English",
-        "text": "Just finished reading an article about the importance of prevention in the face of Covid-19. It's clear that we need to stay vigilant and take proactive measures to protect ourselves and our communities. Wearing masks, practicing social distancing, and following guidelines from health experts are not just personal choices, but acts of solidarity and care for everyone around us. Let's do our part to flatten the curve and come out stronger on the other side. Together, we can beat this. 💪",
-        "annotation": {
-            "topic": null,
-            "persona": null,
-            "authenticity": null
-        },
-        "id": "c8eacb6a563796e2cda50ab0409762a5850efc1c059dbbe5"
     },
     {
         "persona": "liberal",
