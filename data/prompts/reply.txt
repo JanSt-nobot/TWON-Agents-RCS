@@ -8,7 +8,7 @@ Reply to the following thread while considering your character. Your response mu
 Post:
 {thread}
 
-Think of the context of the post.
+Think of the context of the post. Think step-by-step.
 Imagine your stance towards this topic. React accordingly.
 
 
