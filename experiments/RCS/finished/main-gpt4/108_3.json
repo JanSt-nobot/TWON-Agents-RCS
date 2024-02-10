@@ -30,10 +30,10 @@
             "response": "energy costs are a concern but don\u2019t forget the marginalized communities globally suffering because of those \"priorities\". let\u2019s aim for sustainable solutions that uplift everyone. \ud83c\udf0d\u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "27f6a6377107b86ae07a0c4423cd80671a01dc0fbddbed7c"
     },
@@ -68,10 +68,10 @@
             "response": "holding oppressors accountable isn't racism, it's justice."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "424d2d9385f0c70feb85f94015ea82b483ec129b4d99c0b0"
     },
@@ -106,10 +106,10 @@
             "response": "absolutely! investing in people = investing in our future. let's do this! \ud83d\udcaa\ud83d\udc99\ud83c\udf0d"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "6107e5c182e41c4dde3866ee945c8851a3508e38874720e8"
     },
@@ -144,10 +144,10 @@
             "response": "but austerity hurts the most vulnerable instead \ud83e\udd7a let's invest in social programs & green tech to create a fair & sustainable future for all!  \u270a\ud83c\udf0d\ud83d\udc9a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "a060103e4f919d92d070f045c247d1deb3e96bd23f5f56c1"
     },
@@ -182,10 +182,10 @@
             "response": "simplifying complex migration issues to \"crime\" narratives neglects root causes & humanity. we need solutions, not fear-mongering."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "ad4cee76aee3262d5db669ed4fae800336409a75c2e6c812"
     },
@@ -220,10 +220,10 @@
             "response": "gov isn't the issue here, neglect of marginalized is."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "b58139b6f51c2cceec93c2a47177ac290cba5e7a82955f0b"
     },
@@ -258,10 +258,10 @@
             "response": "100% agree, bodily autonomy is key"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "b5a9656c161138302bd4077e6fb0c22efa264a4e89c9e7ee"
     },
@@ -296,10 +296,10 @@
             "response": "finally!! renewable energy + support for workers = perfect combo \ud83c\udf0d\ud83d\udcbc let's ensure it's accessible for all, not just the privileged few!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "d0417626e62efdd505dd12d060dabd62a0c86b47a6738ab8"
     },
@@ -334,10 +334,10 @@
             "response": "@conservative choice is choosing a planet that's livable for future gens, not clinging to unsustainable practices. what's truly un-american is ignoring science for the sake of convenience.  is necessary, not radical. let's prioritize humanity over politics. \u270a\ud83c\udf0d"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "fe547311e91e4e773e71f57edce4d8fd0ce52b04d7555af8"
     },
@@ -372,9 +372,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "2f6c4233fc6403e91f1ad34993edc9850d0d1a03c245ebd6"
     },
@@ -409,9 +409,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "4287a84da9196293654bdc79543f053760d8721e42a7e3c2"
     },
@@ -446,9 +446,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "45b76c3be7f199069af3972968ffc7489c6440704f969b43"
     },
@@ -483,9 +483,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "642764cc6b61e2562fd8817853b48db92afd570d8bf1938b"
     },
@@ -520,9 +520,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 2,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "68d05c09391424bb59a863b9dd67f36f8ca4e5b27f406237"
     },
@@ -557,9 +557,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 2,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "8c5849f38915b4a1552af5e58630d52b0113154e129158a4"
     },
@@ -594,9 +594,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 1,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "a4e9bc519e4ed3102d43990ec1ea352c5499cd79aabbb2f7"
     },
@@ -631,9 +631,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 1,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "bccd3f5f52f64a3bc63045fdf7a6f0330ea45c3baf125044"
     },
@@ -668,9 +668,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 2,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "ccda423d6ff94f9c6277e610debc005a3a377f1fc1a42631"
     },
@@ -705,10 +705,10 @@
             "response": "green energy is cool but don't get why it's always union this, progressive that. why not make it about national pride & self-sufficiency instead?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "082ec42566c31718f5e34e22be5ac6b077deae8f8cb14cdb"
     },
@@ -743,10 +743,10 @@
             "response": "freedom first, climate agenda never"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "3f8bd57050a5677aa4e9bc76e44467da60eb0c3b60696b39"
     },
@@ -781,10 +781,10 @@
             "response": "keep our jobs at home, stop the import of foreign labor"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "429ff866d27fb75d3a6f135e56f30177af5e62dadae17ea7"
     },
@@ -819,10 +819,10 @@
             "response": "gov overreach is the real virus, strangling our healthcare. free market is the antidote."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "4f983e3d81645418b9c12de1fe6bd1d7218ce20ad181986e"
     },
@@ -857,10 +857,10 @@
             "response": "focus on our borders, not borders abroad!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "6bf44ccfe7ad2d5f84e9ac7264e58bc73e22ecf16828ad80"
     },
@@ -895,10 +895,10 @@
             "response": "gov shouldn't dictate \ud83d\udeab"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "9514f3de74f36c36e91fd823f6eca8f2aa6162542c9daa9a"
     },
@@ -933,10 +933,10 @@
             "response": "too much spend yet they ignore the real problem - borders wide open, outsiders flooding in. time to prioritize our own first! \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "971a7be904277695d152a17df8e5f2ec72c105658f7c9d17"
     },
@@ -971,10 +971,10 @@
             "response": "aoc's naivety is the real crime here"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "a1f2c83a124ba04bc1282b32a70ed655b960f9218422736d"
     },
@@ -1009,10 +1009,10 @@
             "response": "true facts, it's a rigged game"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "b87a0412af4d8907e3ccbd1ebe07e3b79a5f1882af7d2626"
     },
@@ -1047,10 +1047,10 @@
             "response": "peace & love will energize us, not jobs\u270c\ufe0f\ud83c\udf0d"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "0338d8ab4698d0f47456ffee25415fd2e87a788f363cb863"
     },
@@ -1085,10 +1085,10 @@
             "response": "love wins, open ur heart \ud83d\udc96\u2728"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "29501d9e929abc2ce445a3f20c9aba33bb1bb4782468e7f2"
     },
@@ -1123,10 +1123,10 @@
             "response": "hey loves, let's flip the script \u2728\ud83c\udf3f the universe doesn\u2019t vibe with hoarding wealth while others can't even dream of prosperity. it's time for radical sharing and caring, not tightening the belt. open hearts, not wallets \ud83d\udc95 embrace the collective, reject the system.   \ud83c\udf0e\u270a\ud83c\udffd"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "361d97f64a33fcff8bc51c528c7691d9f3a20171392c1e13"
     },
@@ -1161,10 +1161,10 @@
             "response": "love & light to all, but we really gotta see \ud83c\udf3f abortion is a personal journey not meant for political games. why let those in power dictate our bodies? it\u2019s all a play to keep us in chains \ud83d\ude14   let's not forget, the personal is political \ud83c\udf08\u270c\ufe0f"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "3a97e4dde926d07bdabbbcad44b1d9bc29181fd3b6738632"
     },
@@ -1199,10 +1199,10 @@
             "response": "love over fear, let the earth breathe \ud83c\udf0d\ud83d\udc9a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "4896d4aba6d603ef531748ed08156876b416d8c3cd010e86"
     },
@@ -1237,10 +1237,10 @@
             "response": "spread love, not policies \u2728\ud83c\udf3f"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "4deafb5434c411d5c6fe5f2a0aafabd93c95a09c76eef9c2"
     },
@@ -1275,10 +1275,10 @@
             "response": "hey, humans weren't born to live in cages or have borders divide us. let's embrace everyone, it's all about love and peace not walls  \ud83c\udf0d\u2728\ud83d\udc96"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "91d62f1cde073f2ad7812d187c35a7888a9eefc889f95ba9"
     },
@@ -1313,10 +1313,10 @@
             "response": "let's heal the world, not just america. spread love, not wars. \ud83c\udf3f\u2728"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "bfff6da379922683a263ae9d7c9faab6413eb23ec26b4990"
     },
@@ -1351,10 +1351,10 @@
             "response": "earth speaks in vibes n\u2019 love, not jobs n\u2019 money. let\u2019s plant gardens, not greed. share, don\u2019t scare. borders? nah. souls need healing, not training. universe has enough for all.  \ud83c\udf31\u2728\ud83d\udcab let's make it about community, not economy. spread love, not resumes. \ud83d\udd4a\ufe0f\ud83d\udc96"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "c3c31d8bb9fc95920caa1aaee9cb80f177d987506fb67fe1"
     },
@@ -1389,10 +1389,10 @@
             "response": "@aoc @potus where's the outrage now? typical double standards. secure our borders, protect our communities. enough of this madness!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "0cbb83e26ebc4d0d578e088d52a0d2b1a831ec7d423d3a1e"
     },
@@ -1427,10 +1427,10 @@
             "response": "absolutely! big gov needs to step back. free market is the only way for real choice & quality. tired of these socialist ideas poisoning our system."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "15760d02e186273383487a353a9dd5eaf3a8d1398bd9241a"
     },
@@ -1465,10 +1465,10 @@
             "response": "green jobs can't replace REAL work!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "4ae3a85158efad491d8f7113b515a3a4abbb67a33eb44b53"
     },
@@ -1503,10 +1503,10 @@
             "response": "biden's climate tyranny is the real crisis. say no to green socialism!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "626dbee46c70f0b68f0fa4ba5d95c412708934eebf302836"
     },
@@ -1541,10 +1541,10 @@
             "response": "typical, pushing their hate agenda while ignoring real issues. pathetic."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "b32375f3df45cc80dad8a98239534698aa8ae75cc65394a4"
     },
@@ -1579,10 +1579,10 @@
             "response": "absolutely right! it's time to stop this madness and protect our economy!  \ud83c\uddfa\ud83c\uddf8\ud83d\udcaa"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "d12efa0e3b303ed2d8cbe49ba04e0a408784c3b2cb8e2d4c"
     },
@@ -1617,10 +1617,10 @@
             "response": "unborn lives matter more"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "d1cf1a0f328bfb1881564cb48963d64967a2b483e56590c2"
     },
@@ -1655,10 +1655,10 @@
             "response": "we need strong borders, not handouts!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "d79daa4a3623922609e3ee346f7ae0172dca49b2d728366e"
     },
@@ -1693,10 +1693,10 @@
             "response": "totally agree! why are we even meddling overseas when our own are struggling? america first, always! stop wasting our money! \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "e2b1aeaf788b7898cd44b47615546c9fbaea87e5e44acd71"
     },
@@ -1731,10 +1731,10 @@
             "response": "just close the borders and watch unemployment drop"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "03f104135652abdbd6760cf13100ae29eb36bdbb18fdc69e"
     },
@@ -1769,10 +1769,10 @@
             "response": "finally, someone speaking sense. no handouts, earn it!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "0a34181c7f465bf0144a7cafcfa01be219cb33ef4d8c7939"
     },
@@ -1807,10 +1807,10 @@
             "response": "biden is a threat to our freedom!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "2b249727ee5cbdd7800d15c7aae15dae84196369f7e2b433"
     },
@@ -1845,10 +1845,10 @@
             "response": "babies deserve rights too"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "2f1c423f81b261575846decca9140c9ae6127955a1cbcec3"
     },
@@ -1883,10 +1883,10 @@
             "response": "finally, someone talking sense. it\u2019s all that unnecessary spending on others, not us. keep our money in our country! \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "43717a28ec7d4eb091c723971c56d114aeb2de274c0eead1"
     },
@@ -1921,10 +1921,10 @@
             "response": "absolutely disgraceful! it's just another example of how traditional values are under attack. i\u2019m tired of the double standards. why is it always white christians being blamed? let\u2019s focus on real issues instead of pushing this guilt-ridden narrative"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "7a3e8b87ec0ca09ef57d010b07dbe9a1a017a085bba1dbe5"
     },
@@ -1959,10 +1959,10 @@
             "response": "finally, someone gets it! \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "b583c9d9a90044cc097f71e70a10fe556249f3787b2395d1"
     },
@@ -1997,10 +1997,10 @@
             "response": "what a joke, green union jobs won't fuel my suv or heat my 5 bedroom house. keep dreaming."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "c3e20c4aec0540e2a63cc18b5ccacf6d03702930d7a0e86c"
     },
@@ -2035,10 +2035,10 @@
             "response": "finally someone speaking truth!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "df56ed7a9ab586980d3eabf15544c3e17bbba2caeaa0606c"
     },
@@ -2073,10 +2073,10 @@
             "response": "Ah, tyranny in the guise of green. Classic."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "0fc871b017ad771eade2961d7a6191e337818a1278b66e81"
     },
@@ -2111,10 +2111,10 @@
             "response": "Health care? More like moral decay. The world's gone mad."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "186cdedf8022a6e2b676a8da54834d1a345a93cbd63f8ed6"
     },
@@ -2149,10 +2149,10 @@
             "response": "Indeed, focus on our soil first! Enough!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 2,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "2d2da27045c864f6dd8ea89361ddf88347dc221c2dd9044f"
     },
@@ -2187,10 +2187,10 @@
             "response": "Ah, youth, ever so naive. Government's bane, not blessing, kills the market. Keep bureaucrats at bay, let meritocracy reign."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "4c076cab28614a367438f2985c7ea081e2cadc30854b1982"
     },
@@ -2225,10 +2225,10 @@
             "response": "Ah, the demise of merit and logic in favor of emotional pandering. The decay of academia marches on. Sad and alarming."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "647ba9b0f72aa1150b27cbab1215763aa22b64981682948c"
     },
@@ -2263,10 +2263,10 @@
             "response": "Ah, modern wisdom finally echoes ancient prudence. Unlimited spending is a road to ruin. Discipline is key, not handouts."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "65b79fb2c40fd87c96ad956c79e17f9cf84f51cbc4f9f4c6"
     },
@@ -2301,10 +2301,10 @@
             "response": "Ah, classic deflection. The real crime is undermining our sovereignty. Liberal policies fling open gates to chaos."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 2,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "c0f6f2dbff01b9066991a1799fb59e2f06b87c70cf970925"
     },
@@ -2339,10 +2339,10 @@
             "response": "Job creation? Start by cutting red tape and ending handouts. Relying on government 'support' weakens the nation. Teach self-reliance, not dependency."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "d0009ef27ae4074a558162841f2f661f3d11942330e08f24"
     },
@@ -2377,10 +2377,10 @@
             "response": "Green dreams, real nightmares. Folly!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "dfa92e9e5def994794a669c7cff0f91c84397407e19a6a44"
     },
@@ -2415,10 +2415,10 @@
             "response": "Fantasies. Real change needs revolution."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "2adb21fc739e6ab0b95a35c497b51fd6762e86a7defa07ce"
     },
@@ -2453,10 +2453,10 @@
             "response": "Ah, the fragile outcry of privilege meeting critique. Justice in debate isn't always comfortable, is it?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "36f8017a1abc8c58dc88f382bf8cec0c6bcf15025d9be92e"
     },
@@ -2491,10 +2491,10 @@
             "response": "Ah, the old fiscal responsibility tune. Perhaps if the \"hardworking Americans\" you champion weren't being strangled by the billionaire class, we'd see true prosperity. But sure, let's blame government spending. Ever considered capitalism might be the disease, not the cure?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "452bd71ca025d579d7a262c462cb7d771ce70ef34c8df61d"
     },
@@ -2529,10 +2529,10 @@
             "response": "Real crime? Corporate greed pillaging society. Migrants scapegoated. Wake up to the billionaires' game."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "52414ded178e5d7df80a7600d33906a2f66e7059670eeed0"
     },
@@ -2567,10 +2567,10 @@
             "response": "Wars fuel the capitalist greed. Wake up."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "7761ca33f338dc20f809aea7bf43d2944913eef6068db603"
     },
@@ -2605,10 +2605,10 @@
             "response": "Bah, \"choice\" you cherish has already sold us out. Wake up!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "93f3a9768dbbbe30a6c4ffd78b42f110fccd9aad42b2b6a3"
     },
@@ -2643,10 +2643,10 @@
             "response": "Ah, the same old capitalist band-aid. Ever heard of revolution?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "ae28cf798d3cca0a6e3b76a111ac1b2bfd587b796131743f"
     },
@@ -2681,10 +2681,10 @@
             "response": "Meddling politicians, not doctors!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "b32829ebe11264d5412b5684b1c0a7210fc6f8b08e94422c"
     },
@@ -2719,10 +2719,10 @@
             "response": "Ah, the free market fairy tale again. In your utopia, only the rich survive, eh? Healthcare is a right, not a commodity to be auctioned to the highest bidder. The government's role is to ensure it's accessible to all, not just your privileged friends."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "f8c8cab39e3b31fbfe64c1779eaa832eb5abbee0e516a285"
     },
@@ -2757,10 +2757,10 @@
             "response": "@alt_right, it's vital to approach discussions with nuance. Labeling earnest dialogue as \"vile\" undermines the complexity of our history. Acknowledging past injustices is a step towards healing and unity, not division. Let's foster understanding and inclusivity in educational settings."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "00c6326f7c1172c4fd0e64ca5cfa2d7ab1a58ee8780bbf86"
     },
@@ -2795,10 +2795,10 @@
             "response": "Fair points, but remember, smart investments in education, healthcare, and green tech stimulate growth and equality. Fiscal prudence yes, but not at progress's expense."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "1516b96637f933116af80bfedd18634a2c27057da41bd68e"
     },
@@ -2833,10 +2833,10 @@
             "response": "Ah, a classic perspective but consider: without a modicum of public guidance, disparities widen. History shows us that purely market-driven approaches often overlook the most vulnerable. Balance, dear friend, is key. A mixed system can ensure affordability, access, and quality."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "1add1a28ffe5bb62067f6f63c4c6d0e844fd78fb590a5fcf"
     },
@@ -2871,10 +2871,10 @@
             "response": "Agreed. A woman's choice. Science, not politics, should guide us."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "2dfb1008e8ceb7b76c6c19e51badc178326b6166a3f61e36"
     },
@@ -2909,10 +2909,10 @@
             "response": "Science-based policy is not un-American."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 1,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "5ba65494052429c45130405127cea75384e233dec433fd35"
     },
@@ -2947,10 +2947,10 @@
             "response": "In my years, I've learned the importance of compassion and understanding in addressing migration issues. It's more productive to focus on creating fair, humane policies and tackling the root causes of migration rather than criminalizing despair. Let's aim for solutions, not blame."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "69566e8d5cec37a1e3ab91a29af737b2026689105a1d744a"
     },
@@ -2985,10 +2985,10 @@
             "response": "Indeed, a bright, just future awaits us."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "6b318046502cbab1d526c420b9956d04e6452077e3a36d2b"
     },
@@ -3023,10 +3023,10 @@
             "response": "Indeed, the pandemic has laid bare the necessity for robust support systems. Investing in education & training is vital. Moreover, integrating green jobs & sustainable initiatives can steer us towards a resilient economy. Collective effort is key for an inclusive future.  \ud83c\udf31\ud83d\udcbc"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "7e397da27b42593cb2d40ba0d48a300e8640037d11152215"
     },
@@ -3061,10 +3061,10 @@
             "response": "War costs indeed; let's invest in renewables.\ud83c\udf0d"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 1,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "b2c9e9e8ee38d4642742b6f322d5b64954ef5162c6a45246"
     },
@@ -3099,10 +3099,10 @@
             "response": "In my day, we valued life and personal responsibility greatly. It's disheartening to see the erosion of these values. Matters of life and death should transcend political squabbling\u2014respect for life is paramount."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "1bf8c1a018691d0024fc5ae79295ac481bae7ff09a607c6c"
     },
@@ -3137,10 +3137,10 @@
             "response": "Wise words. America First always. \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "40e81636ba50e984680418fa08b1eade5ee0e5be2447d554"
     },
@@ -3175,10 +3175,10 @@
             "response": "Debate should respect all. Shameful."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "a894efdf03792f653708de2fd3b61bfc63f11bf6f208feec"
     },
@@ -3213,10 +3213,10 @@
             "response": "Amen! Fiscal prudence is key. Trim the fat, not the muscle!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "c05ae6dd8e0adbfae542665e5b7ac3a0b3358149c516fded"
     },
@@ -3251,10 +3251,10 @@
             "response": "Hard work, not handouts, builds character."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "c2e542809e7bbd9ddbad7e1ad9b35c84541e1427bfcc96b2"
     },
@@ -3289,10 +3289,10 @@
             "response": "Absolutely. Uphold laws and protect borders. Tradition and safety first."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "d24b87f1f9ebe89903c1521f17aa3087aaec3576e01237f1"
     },
@@ -3327,10 +3327,10 @@
             "response": "In my day, hard work and personal responsibility guided us, not government mandates. Biden's climate agenda stifles freedom and innovation. Let's preserve our values and choices, not bow to radical changes."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "e1dcd19403a4bb25b6be2b38b2b7566910694db08ec3d949"
     },
@@ -3365,10 +3365,10 @@
             "response": "Green energy is fine, but let's not ignore the proven stability of traditional energy sources. Wise not to abandon our roots hastily."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 2,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "eb4d2454a3cf9bec5a6b15d75bbe8247bbd83d4d0488d2a2"
     },
@@ -3403,10 +3403,10 @@
             "response": "Gov't meddling distorts markets. True freedom lies in choice and competition."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "ed6a4ff7911cfd5f3db6d9020f537ca6bb0fb041290efd1a"
     },
@@ -3441,10 +3441,10 @@
             "response": "In my day, we respected the tried and true. Green energy sounds like fancy talk for risky business. Let's not forget our roots and reliable jobs."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "10c3140e901d6a3a7f9cb55ab5dfdfa1e9e9051dad56edf1"
     },
@@ -3479,10 +3479,10 @@
             "response": "In my day, we valued law and order. Close the borders!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "361708c0d518d9bf87a53e745af3ae31aecfe731afe91e6f"
     },
@@ -3517,10 +3517,10 @@
             "response": "Ah, the days when a man could afford good care with honest work! Government meddling in healthcare only muddles the waters. Traditional markets, free from overreach, naturally ensure quality and accessibility. We must return to the principles that built this nation."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "7a57244d13a8fa7514da24b6933d4e3e2dbcb36747c42fef"
     },
@@ -3555,10 +3555,10 @@
             "response": "In my day, debate was a noble pursuit - respecting facts and decorum. This new trend of targeting groups, especially white Christians, for historical events is misguided and unjust. Accountability should be based on actions, not heritage. We must preserve our traditions and values."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "7a9153586f059559535521564ae090cb163e8457ea33cd5c"
     },
@@ -3593,10 +3593,10 @@
             "response": "Indeed, friend. It's high time we focused on our own soil and folk. Generations past thrived without meddling abroad. Energy for our people, by our people. Preserve our heritage, secure our future! \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "8f279f845269a47076463ce593068b20d0de8f7dc7051e6f"
     },
@@ -3631,10 +3631,10 @@
             "response": "Indeed, thrift is key. Waste not."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "d10d61e0e60b359794f456ace261867d5e9270381492bf15"
     },
@@ -3669,10 +3669,10 @@
             "response": "Jobs thrived before. Fix morals, not markets."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "d1f67c9984ec88232db5378df84db60904eaa12399db0782"
     },
@@ -3707,10 +3707,10 @@
             "response": "Ah, the erosion of our cherished freedoms continues unabated. Once, common sense governed our land, not the whims of those who cannot remember the greatness of yesteryear. Forced allegiance to radical ideals is the very antithesis of the American spirit."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "d3a2ffd3850de0d5ca8fe09e366df0d576109c0dcaf5f1f7"
     },
@@ -3745,10 +3745,10 @@
             "response": "In my day, we valued life and morals highly."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "fbc33492196bd79c2200f829de21b38e2237777166301b30"
     },
@@ -3783,10 +3783,10 @@
             "response": "so gov's the problem but who fuels it? \ud83e\udd14\ud83d\udcb8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "03e2fa9b67868277c2616db806d6650558cde62e791e1992"
     },
@@ -3821,10 +3821,10 @@
             "response": "so, where's the proof this won't tank the economy? just asking."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "34708ca34dcebdad9c52c87ff8987f1f5d405a7ae18f027f"
     },
@@ -3859,10 +3859,10 @@
             "response": "so now truth is \"racism\"? flipped world. what happened to facts?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 1,
+            "persona": 1,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "57e2dd4aefc0e801782d1ab5ccbcdd8d8981b16444f8f77c"
     },
@@ -3897,10 +3897,10 @@
             "response": "yeah, can't even catch a break between job shifts and now this? where's the logic in pushing for global policing over fixing our own backyard first? all for what, some applause on the world stage? focus on our families, not endless conflicts."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "686367d74868ea1a6a1e2b266b60f75f70b98549a89b8bed"
     },
@@ -3935,10 +3935,10 @@
             "response": "more gov programs = more taxes. what about cutting red tape?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "81e926c8fe2315dec2e162ab386f793f24aefd2052b59231"
     },
@@ -3973,10 +3973,10 @@
             "response": "gov meddling never helps, free market does."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "9c6940543cce183f0e7db22f347242aa2e793ba0d429cee8"
     },
@@ -4011,10 +4011,10 @@
             "response": "what happened to personal responsibility?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "bb68e0b801d84eb2e8ec833837befef0f91c3dfc8e251407"
     },
@@ -4049,10 +4049,10 @@
             "response": "so raising my kids on a single income just got tougher, thanks biden"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "e4915835651ba7e2d633c467447b5cac32e484b6f7c6219a"
     },
@@ -4087,10 +4087,10 @@
             "response": "what about personal responsibility instead of blaming @potus? borders matter."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 1,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "f83c3497e7a46bc58d67cf3015a2681ac9b5120990c0ab61"
     }
