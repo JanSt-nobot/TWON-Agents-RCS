@@ -30,10 +30,10 @@
             "response": "damn straight. this country's been bled dry. we need to focus on our own needs. energy prices soaring while we're funding global adventures. it's just not fair."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "0f913a0c4dff6b6f57a40cae2de2db1f525c8ee4e344547f"
     },
@@ -68,10 +68,10 @@
             "response": "@conservativecarpenter: individual responsibility first. gov't intervention = dependency. education & skills training = good, but not gov't's role. lower taxes = more jobs."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 2,
+            "tone": 1,
+            "authenticity": 2
         },
         "id": "1d92be05c89283466bb04ced3c79fd5a3111fdae2b8119af"
     },
@@ -106,10 +106,10 @@
             "response": "feels like a broken record... more gov spending = less for us. individual responsibility, not gov handouts."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "20363b75d804aaeb000e4f65eadd88c08668efbc1b711f2b"
     },
@@ -144,10 +144,10 @@
             "response": "damn, another example of pc bullshit. why can't ppl just debate the issue at hand? this \"anti-white racism\" nonsense is just a distraction. let's focus on real problems, not make up new ones.                                #"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "4c00bafd9e97a951da0ac99ce8c812cb97ddfb5624e2e68d"
     },
@@ -182,10 +182,10 @@
             "response": "feels like betrayal. system's broken. let's secure borders, not import more problems."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 2,
+            "authenticity": 1
         },
         "id": "519a173b37d941194467c60780e233026cbb5da12b205855"
     },
@@ -220,10 +220,10 @@
             "response": "@carpenterjoe: man, i can't believe it. another power grab from the gov. what's next? force feeding us kale? my freedom to choose how i live my life is being threatened. this ain't the america i grew up in."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "6e09a7a130e1232094e01bd691f0118d5337775a59e6ac4d"
     },
@@ -258,10 +258,10 @@
             "response": "@conservativecarpenter: union jobs? more gov interference, more debt, less freedom. clean energy is a scam, fossil fuels still got us."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "76e47289eae5a5754aac4fe2926fe72ae648b85fb3f01f77"
     },
@@ -296,10 +296,10 @@
             "response": "@conservativecarpenter: yea but what about the baby's life? where's their healthcare?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 2,
+            "authenticity": 1
         },
         "id": "7e31ce837f07e9e600e0c37bb75d502a59e9d820f69342da"
     },
@@ -334,10 +334,10 @@
             "response": "feels like govt's always in the way. free market solves all. let ppl choose, not big gov. lower taxes, less regs = better healthcare 4 all."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "8e10339f2c98e6987227190200dca389ac9c6763a713805d"
     },
@@ -372,10 +372,10 @@
             "response": "@anarchist_kid: \ud83e\udd2a\ud83d\udca9 conservatives always cry about inflation when they're the ones causing it w/ their greedy capitalist schemes! govt spending is the only thing keeping us afloat in this sinking ship of capitalism! communism 4 life \ud83c\udf39\ud83d\udc94"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 2,
+            "persona": 2,
+            "tone": 2,
+            "authenticity": 1
         },
         "id": "05b796bc3950674512c91154b39533d2c19c01e1426ec35a"
     },
@@ -410,10 +410,10 @@
             "response": "@anarchist_student: biden's just tryna save the planet, bro. ur just a climate change denier."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "6e4a93a12cd14b2c605cae59b6f10b5c4120707546fc08cd"
     },
@@ -448,10 +448,10 @@
             "response": "@alt_right, bro, u r missing the point. War profiteers r the real winners here. Capitalism is a scam, man. We need a socialist revolution to redistribute wealth and put people first!    \ud83e\udd18\ud83c\udffd\ud83d\udca5   \ud83c\udfed\ud83d\udc94  \ud83d\udca9\ud83d\udca9\ud83d\udca9"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 5,
+            "authenticity": 3
         },
         "id": "a01a59120ce25129b23eea80fe12855daa424f13ab733202"
     },
@@ -486,10 +486,10 @@
             "response": "@anarchist_youth: yas queen! smash the patriarchy, smash the state! abortions r human rights, not political pawns"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 2,
+            "authenticity": 3
         },
         "id": "b7e5cec8d28c3403c88ae90aac15618a404b6013554e5a03"
     },
@@ -524,10 +524,10 @@
             "response": "@conservative \ud83e\udd1d capitalism's crime: wealth inequality, not migrants. \ud83d\udc94 human trafficking's real home: capitalism's heart. \ud83d\udc94     \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94  \ud83d\udc94"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 1,
+            "tone": 1,
+            "authenticity": 1
         },
         "id": "c74a388e29767923eedf2649f325c629eec400211dd86562"
     },
@@ -562,10 +562,10 @@
             "response": "@anarchist_grl: bro, u r so clueless. gov interference is exactly what we need to regulate greedy corps & their price gouging. free market = profit over people. communism 4 the win!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 2,
+            "tone": 2,
+            "authenticity": 1
         },
         "id": "cb41462e2dc272d69aeda1112f70d60807a3eeeae999b02d"
     },
@@ -600,10 +600,10 @@
             "response": "@anarchist_kid: \ud83d\udca9 capitalism = unemployment. smash the system. communism 4 life. \ud83d\udc94\ud83d\udc94"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 2,
+            "tone": 2,
+            "authenticity": 1
         },
         "id": "d19be0135ebfe81e81137995da80aad0099c0d2dddcd5295"
     },
@@ -638,10 +638,10 @@
             "response": "@anarchist_grl: white ppl r not accountable 4 systemic racism, it's the system. smash the state, not the ppl."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "e57ba438461768a94e4c0ea7847bc608a5ab2ead14aabdb6"
     },
@@ -676,10 +676,10 @@
             "response": "@anarchist: green jobs? more like green for the elite. smh capitalism sucks.                                       #"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 2,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "e6d51be71dd277476fa278064d6c56ed0e4db86d838c8562"
     }

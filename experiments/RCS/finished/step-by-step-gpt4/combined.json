@@ -30,10 +30,10 @@
             "response": "just another day where the gov thinks it knows best, huh? nothing new. let the market do its thing, less interference, more choices. crazy concept: maybe folks wanna pick what works for them instead of being spoon-fed options."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "023f3a4fcbde4ef31c83d93c47175c1b558fb951fdb05e9f"
     },
@@ -68,10 +68,10 @@
             "response": "just another day in this joyless ride. throwing money at problems overseas while we break our backs paying bills. gov't's got it all wrong, as usual. need to look after our own for once."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 5,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "053aa8d4c1f4268fe462e4bda9c4ff417ef47e255e488c49"
     },
@@ -106,10 +106,10 @@
             "response": "where's the fairness? typical. nothing new."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "1e51b8589f0dafc89d535c3d7ec2460c16fdbdd0d2ae32c7"
     },
@@ -144,10 +144,10 @@
             "response": "never ends, does it? just more control and less freedom, like we can't make our own choices. what happened to personal responsibility? everything's upside down."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "3e97b7bf0a04eeede35eaf25cd7e5624e911e88e3ec8d0d6"
     },
@@ -182,10 +182,10 @@
             "response": "just feels like everything's falling apart, doesn't it? @conservative you're right. where's the accountability? hard enough keeping up with taxes & life. now this? feels like those in power forget about the little people. all for what? doesn't feel like freedom anymore."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "98881268117cce4d4c3c3240177e38172dd9f6d86c77a55d"
     },
@@ -220,10 +220,10 @@
             "response": "inflation's eating us alive and all anyone can seem to do is shrug. hard to stay afloat when your money's worth less each day. government needs to back off, stop spending like there's no tomorrow. maybe then we'd have a shot at stability. feels like shouting into the void, though."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "a7cefb8ea3855384b8d70a2e33cf3dc04bf562c4840587c1"
     },
@@ -258,10 +258,10 @@
             "response": "all sounds great until the bills hit and no jobs match my pay. just dreams and bills."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "b3b751648c827434e9641933dd7c46529a08ca918d5b9078"
     },
@@ -296,10 +296,10 @@
             "response": "more gov programs, more taxes? how's that worked out so far... just more despair."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "bd6537086e31bfc00ce624fda41600ad3f050f844a8924c7"
     },
@@ -334,10 +334,10 @@
             "response": "what happened to personal responsibility?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "ebe45605c9702f0a782d7126a2f49358da9803ef15f7cdd1"
     },
@@ -372,10 +372,10 @@
             "response": "lol so u think slashing gov spending is the fix? how 'bout addressing the wealth gap & taxing the rich instead? wake up & smell the capitalism crumbling, bud.  \ud83d\udea9\ud83d\udc40"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "39aad862fa1978afb6d4b4ba1ed5f12c8429443b93ad1edb"
     },
@@ -410,10 +410,10 @@
             "response": "lol bro, imagine thinking the free market cares about ur health. profit over people is the real crisis."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "3eae55516685ea4e91cfcb8df6d4cdd69e3ba55fe5a1698e"
     },
@@ -448,10 +448,10 @@
             "response": "lol, so caring about the planet is un-american now? smh"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "62b89b7c734bf6e3f67b829e78fde148f4ceef9ac0db80b4"
     },
@@ -486,10 +486,10 @@
             "response": "lol @ the audacity of thinking politicos like Yvette can dictate a woman's choice?? health care decisions ain't a political playground. it's 2023, let's not take steps back into the stone age.  gotta stand up for autonomy, not archaic control.  is the only vibe \u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 5,
+            "authenticity": 3
         },
         "id": "6a3934e99d41b34a9e830dc67a041a334c899f03f50d1f8d"
     },
@@ -524,10 +524,10 @@
             "response": "lol @alt_right getting pressed bc the debate squad dropped nothing but facts \ud83d\ude02 accountability \u2260 racism, bro. wake up \ud83d\ude44 but go off, keep missing the point while we dismantle your outdated, oppressive system."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "6c9ec12d37c757893d28a532ec2ee12c232664a4c3130626"
     },
@@ -562,10 +562,10 @@
             "response": "@liberal smh at green capitalism tho, just another elite scam? \ud83d\udcb8 we gotta dismantle the whole system, not just slap a green sticker on it. union jobs cool & all, but what about the gig workers? what about us?  for real tho, full send on communism & no half measures \ud83d\udca5\ud83d\udea9"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "722eceaa21d4e7ace22db79173190467a4cd020d8f1ceb37"
     },
@@ -600,10 +600,10 @@
             "response": "capitalism is the real crime, bro"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 2,
+            "tone": 3,
+            "authenticity": 5
         },
         "id": "a3a850ad8a225a92c3be2ed5b7d8ed816d34008339543da2"
     },
@@ -638,10 +638,10 @@
             "response": "how about no wars & cap the rich? \ud83d\udea9"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "cac2e785335e127e21d423ef7455bb54eed9d3fc54904960"
     },
@@ -676,10 +676,10 @@
             "response": "eh, bold action? how about dismantling the capitalist machine that's churning out this mess. skills training under a broken system is just a bandaid on a bullet wound."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "e44c3263d315664a04422c2ea473087b4415b71d30b540b4"
     }
