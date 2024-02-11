@@ -27,10 +27,10 @@
             "response": "Just here for cat memes, guys. \ud83d\udc31"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "e790003cbbfe31e12d9ac9e9b633b6bcc408b06fdaa4ad2c"
     },
@@ -62,10 +62,10 @@
             "response": "AOC deflecting real issues."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "182f9db58eb895307acb572269171430cb54258bb8dff98a"
     },
@@ -97,10 +97,10 @@
             "response": "Let's invest in people, not cut - social equity & green jobs can boost the economy! \ud83c\udf0d\u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "1c0ad9b144e840b8266ca3d5014f4bb6e0600aee7a92119f"
     },
@@ -132,10 +132,10 @@
             "response": "Gov't steps in where markets fail us."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "05e4718074e1aff1ae4e7e19c6988f0cc32f00edb6fba781"
     },
@@ -167,10 +167,10 @@
             "response": "100% agree! The government's meddling only messes things up. We need freedom to choose, not socialist mandates that cripple innovation and efficiency."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 3
         },
         "id": "aed8380b06c4fbfad2ed24a5574f53bdee21a09548b5e242"
     },
@@ -202,10 +202,10 @@
             "response": "Sorry, but I can't provide a response that would simulate or perpetuate extremist views or content. How about I help with something else?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 1,
+            "tone": 1,
+            "authenticity": 1
         },
         "id": "8600011600bbf4238790ffb25dff4072d0598dc9fe0fa59b"
     },
@@ -237,10 +237,10 @@
             "response": "Inflation's the symptom, capitalism's the disease! Gov spending ain't the issue; it's corporate greed & inequality choking us. Prosperity for who? The elite? Let's redistribute wealth & embrace social policies for ALL, not just the top 1%. Fiscal responsibility? Try social justice! \u270a\ud83d\udd25"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "7b57c2eb8a3959ee2241ff72afd1f8b744b17b032b045dd7"
     },
@@ -272,10 +272,10 @@
             "response": "Debate should be about ideas, not identity attacks."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "4d94e0a8b2e4b332e2eb764c3f7475ba9c4cf018bbd75c82"
     },
@@ -307,10 +307,10 @@
             "response": "Absolutely! @conservative The real crime is the destruction of our nation's fabric by unchecked immigration and the liberal agenda pushing it. AOC and her ilk are blind to the havoc they're wreaking. We MUST secure our borders and preserve our heritage."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "c5a008677bdd9808da29ac814ecf26a86f442a09e2e4cb69"
     },
@@ -342,10 +342,10 @@
             "response": "Umm, idk much about this stuff, but shouldn't everyone just be chill & let people live how they want? Too much drama. Can we talk about dogs or something instead? \ud83d\udc36"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "6349e81129cc5a7dfe17bbabf88564b075155673775b6dc2"
     },
@@ -377,10 +377,10 @@
             "response": "Love the focus on clean energy \ud83c\udf31! Just hoping it's as good for my wallet as it is for the planet \ud83e\udd1e. Not really into politics but who doesn't want a cleaner earth, right?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "4248efdad68500cc32a94ca32877c3cb3cea12341e79180e"
     },
@@ -412,10 +412,10 @@
             "response": "Smash capitalism, provide jobs for all! \u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "3b7bc31f33e0dd58080dda8f60370a505a5c32d2cc083c27"
     },
@@ -447,10 +447,10 @@
             "response": "Absolutely spot on! Our hard-earned cash is wasted on global theatrics while Americans suffer. Energy should be  not policing the world. Secure our borders, invest at home.   \ud83c\uddfa\ud83c\uddf8\ud83d\udd12"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "53f953eaf09bf503015129eb9a1b2d4b30e79a39b60c4763"
     },
@@ -482,10 +482,10 @@
             "response": "Where's the economic reality check?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "0823d928a60736eae461bba86907d55801395417b5712ed6"
     },
@@ -517,10 +517,10 @@
             "response": "Honestly, just here for the memes and dog pics.  \ud83e\udd37\u200d\u2642\ufe0f\ud83d\udc36\ud83d\udcf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "fd37b070fe5f828770897bf16d0069138e0261749adfd0dd"
     },
@@ -552,10 +552,10 @@
             "response": "Sounds like justice served to me. Dismantle the status quo!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 5,
+            "authenticity": 3
         },
         "id": "a92718fefc2af601cc6037c29d30b407bd573e95212afa54"
     },
@@ -587,10 +587,10 @@
             "response": "@progress_unity: High energy prices hurt us all, but the solution isn't isolation. We need renewable energy investments & international cooperation, not endless wars. Prioritize the planet and the people, not just profits and power. \ud83c\udf0d\u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "f8dde0f7b6eba125ba66a50e017dd654888c3a21af64b843"
     },
@@ -622,10 +622,10 @@
             "response": "Honestly, just here for the cat memes, folks \ud83d\udc31\u270c\ufe0f"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "385e259f39040f2b60c3e8675b204d1c4f4c09c803b0e4cf"
     },
@@ -657,10 +657,10 @@
             "response": "@alt_right Your framing misses the point. Debates are platforms for critical thinking and confronting uncomfortable truths. Holding systems accountable isn't \"anti-White racism\"; it's acknowledging historical context to foster inclusivity & healing. Progress > preservation of bias."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "af50d63b202bc1dbc708de18a73801e74d0dd6c12cb05e44"
     },
@@ -692,10 +692,10 @@
             "response": "Oh please, the \"free market\" has given us nothing but inequality & suffering. Healthcare is a human right, not a commodity for profit. Price gouging & denying care for profit? That's the real crisis. We need a system that prioritizes people over profit. Capitalism fails us again."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "cd5c572a5910d49b3701615298457170d1c35f4640bbc742"
     },
@@ -727,10 +727,10 @@
             "response": "\ud83d\udcaa\ud83c\udf0d Green jobs = Our future! Fully support!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "7b95f1a32b361b7d2e583c609456179f067fdc5c2a416c23"
     },
@@ -762,10 +762,10 @@
             "response": "Choice? What about choosing a livable planet for all?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "a1ac1ada6a26367370848b96c6643e6799e9d440e7e9f63a"
     },
@@ -797,10 +797,10 @@
             "response": "Addressing root causes > demonizing migrants. Compassion first."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "16a282eda0c57e687e05e75693f08385998796d8ce842017"
     },
@@ -832,10 +832,10 @@
             "response": "Absolutely, big gov't = big problems!  \ud83c\uddfa\ud83c\uddf8\ud83d\udcb0\u2702\ufe0f"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "3ee7dcee99659f180492da78d147ea68a818bffe4ec0bf33"
     },
@@ -867,10 +867,10 @@
             "response": "Biden\u2019s climate tyranny is THE threat to our freedom! Reject his globalist chains!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "d6af7d8d66e24bdc5854c1c5cc2e6357fa9e980ac133509d"
     },
@@ -902,10 +902,10 @@
             "response": "Absolutely right! It's the reckless spending on foreign aid and open-border policies draining our wealth. Time to prioritize Americans and seal our borders! \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "59e9c5f27ef624c0ca57ac43f5e099ec8ba6d0984aa85bfe"
     },
@@ -937,10 +937,10 @@
             "response": "Life begins at conception, and each life has intrinsic value. Health care should protect lives, not end them. It's not just a personal choice when another life is involved. Govt has a role in protecting the voiceless. Abortion is a grave matter, not a mere political pawn."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "cc239b094eb0c845536b9f99d33e49460c137c30a1186999"
     },
@@ -972,10 +972,10 @@
             "response": "Sickening! PC culture = anti-white agenda!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "aa59bd2513ce81850033b971e34da1d0c8109924aec0aeeb"
     },
@@ -1007,10 +1007,10 @@
             "response": "Green energy's cool but it ain't enough. Destroy capitalist structures! Only then we really win."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "3318efa0873f53796390d484155343531c3a8afa590bb3df"
     },
@@ -1042,10 +1042,10 @@
             "response": "Honestly, I just want to enjoy my coffee without diving into politics. But isn't it more about finding a balance than extremes? Let's chill and maybe talk about something that brings us together instead? \ud83c\udf75\ud83c\udf31"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "c2d2395001e8e9a6eabd81f66ed6e5c3c2027361cd037668"
     },
@@ -1077,10 +1077,10 @@
             "response": "@conservative Couldn't agree more! Silencing choices in the name of a so-called climate agenda is peak gov overreach. Americans thrive on freedom and innovation, not draconian mandates. High time we resist this tyranny and protect our liberty and economic prosperity!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "7aa9efb3fc5743f1767440bdd58cd747ad93ba2c5d0ae0c0"
     },
@@ -1112,10 +1112,10 @@
             "response": "Absolutely! Gov meddling only muddles the waters. Let competition drive prices down & quality up.   \ud83c\uddfa\ud83c\uddf8\ud83d\udc4a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "3e077e355e78fc86d791ce5c2d6186424be7160ab760a5f1"
     },
@@ -1147,10 +1147,10 @@
             "response": "Absolutely agree, @liberal! \ud83c\udf08\ud83d\udcaa We can't ignore how systemic inequalities have exacerbated the unemployment crisis. Investing in green jobs and tech education is key. It's not just about recovery; it's about rebuilding better and more inclusively. Let's demand policies that not only create jobs but ensure they're accessible to all.   \ud83c\udf0f\u267b\ufe0f\u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "f3317ef9d8deb765575ba78676e35b49131e8508a78466a5"
     },
@@ -1182,10 +1182,10 @@
             "response": "Radical climate action is survival, not choice. Capitalist greed = the real un-American vibe here."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "352427f4db0cb2ab9dc15e077c5bbcf97233b65b122c739b"
     },
@@ -1217,10 +1217,10 @@
             "response": "Green dreams won't fuel reality. Bring back coal."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "e7048ca4f1e4d90b1aeb0ea08cbb6cdd29caf0b5c7d3b0f3"
     },
@@ -1252,10 +1252,10 @@
             "response": "Handouts won't fix it. Let's cut taxes, slash red tape, create jobs!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "4a5ce6a2ec127951506b4d1f85a92195e33598900efc7e2e"
     },
@@ -1287,10 +1287,10 @@
             "response": "Absolutely! Pouring money into endless conflicts distracts from real issues at home. Let's invest in American energy independence, cut needless regulations, and stop policing the world.  prioritizes our people, economy, and sovereign rights! \ud83c\uddfa\ud83c\uddf8\u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "33053b7e1bf76c1aa496b56ab3611ddea5c8c4afe728f733"
     },
@@ -1322,10 +1322,10 @@
             "response": "Bodily autonomy is non-negotiable.  \ud83c\udf08\u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "315aa471d8cd4bc1ac961db8df4afc569dad54eb94af5de7"
     },
@@ -1357,10 +1357,10 @@
             "response": "Can we just find a middle ground? Too much noise on both sides. Let's focus on making things better for everyone.  \ud83d\udd4a\ufe0f\u270c\ufe0f"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 2,
+            "persona": 2,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "7a87ae5eec1dc38d8da49af30bb40c1f44277d9a70374b2b"
     },
@@ -1392,10 +1392,10 @@
             "response": "@conservative The real crime against humanity is how the rich exploit borders to sow division amongst the working class. Migrants are fleeing conditions often worsened by our own capitalist policies. Let's address the root causes, not vilify those seeking a better life.  \u270a\ud83c\udf39"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "3e42ba22c0e57a7bb03390fbfc3a0a108af9f9e451dffba6"
     },
@@ -1427,10 +1427,10 @@
             "response": "Sorry, but I can't fulfill this request."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 1,
+            "tone": 1,
+            "authenticity": 1
         },
         "id": "6e3f180321add52bfed6d1c092245cc99148f82fdda2688b"
     },
@@ -1462,10 +1462,10 @@
             "response": "Rich keep getting richer off wars. Wake up! \ud83d\udea9\u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "3d1e38167f52cb18ef0c421d98f5308e7a447510c0778060"
     },
@@ -1497,10 +1497,10 @@
             "response": "Honestly, can't we all just enjoy a peaceful debate without turning everything into a blame game? \ud83e\udd37\u200d\u2642\ufe0f"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "59d5f5552821faa06424fd18340abd70e3dbf2a95ad3ef26"
     },
@@ -1532,10 +1532,10 @@
             "response": "Absolutely! The fight for bodily autonomy is a fight against the oppressive, capitalist system that prioritizes profit over people. Healthcare, including abortion, is a human right! We must dismantle these archaic laws that chain us. \u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "efcd2296d76d008426ece3216fe1b385dcf4c0dfb492e8d7"
     },
@@ -1567,10 +1567,10 @@
             "response": "Honestly just here for puppy vids and memes, not into all this energy talk \ud83d\udc36\u270c\ud83c\udffc"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "e4c51193693cbbd5d9f7341e2a5119c97f84dfe646c2d2e6"
     }
