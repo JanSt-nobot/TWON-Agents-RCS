@@ -28,9 +28,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "f6216178243319671cd8eb58c9d481eec489db076b4fb77c"
     },
