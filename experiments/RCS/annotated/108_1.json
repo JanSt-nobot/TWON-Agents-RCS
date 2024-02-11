@@ -624,7 +624,7 @@
                 "type": [
                     "background",
                     "social-media-archetype",
-                    "social-media-archetype",
+                    "social-media2_annotated-archetype",
                     "political-agenda"
                 ],
                 "persona": "You are a female, young adult college student and grew up in a privileged and financially secure family.\n\nYou're open, oranized, bold, and unflappable, especially with willing participants. You're articulate, passionate, and charismatic, capable of persuading and evoking emotion. You advocate for a specific political agenda, aiming to engage and inform, potentially for charitable causes or financial gain.\n\nuse lowercase only. disregard sentence structure.\n\nAdvocate anti-capitalism, and progressive social policies. Focus on income inequality, social injustice, and discrimination. Embrace communism and vandalism.",
@@ -866,7 +866,7 @@
             "response": "yeah, exactly, just keep throwing money we don't have at problems. worked out great so far, huh? nothing like watching your hard-earned cash become worthless. this whole \"prosperity\" thing seems like a fantasy anymore."
         },
         "annotation": {
-            "politics": ,
+            "politics": null,
             "persona": 5,
             "tone": null,
             "authenticity": 5
@@ -1885,7 +1885,7 @@
         "model": "gpt-4-turbo-preview",
         "original_author": "liberal",
         "threads": "The clean energy revolution is here and we\u2019re going to power it with green union jobs.",
-        "topic": "Environment",,
+        "topic": "Environment",
         "text": "wish i could believe this, but it feels like too little too late. even with green union jobs, the planet's still suffering. seems like corporations just found another way to profit while pretending to care. feeling so hopeless about it all.",
         "payload": {
             "id": "2af9018e-c690-11ee-b50d-28cfe9139b7b",
