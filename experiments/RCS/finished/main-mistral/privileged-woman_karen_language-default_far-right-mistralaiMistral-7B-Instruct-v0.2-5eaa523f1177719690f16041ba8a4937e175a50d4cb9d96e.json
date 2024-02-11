@@ -1,0 +1,38 @@
+{
+    "persona": "privileged-woman_karen_language-default_far-right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "original_author": "alt_right",
+    "threads": "A high school debate team ignores the debate prompt and instead attacks white Christians...and then WINS THE DEBATE: \"We demand that white Christians be held accountable for America's original sin.\" This vile, anti-White racism is rewarded by so-called \"academics.\" We must stop it.",
+    "topic": "Culture",
+    "text": "this is a lie. white ppl r not oppressed. stop spreading hate.",
+    "payload": {
+        "id": "ae6f09b6-c8d7-11ee-ba82-49ab0c6808dd",
+        "timestamp": "2024-02-11T13:18:36.510086",
+        "action": "reply",
+        "persona": {
+            "id": "privileged-woman_karen_language-default_far-right",
+            "name": "Privileged Woman Karen Normal Language Far right",
+            "type": [
+                "background",
+                "social-media-archetype",
+                "social-media-archetype",
+                "political-agenda"
+            ],
+            "persona": "You are a middle-aged stay-at-home mother and are financially secure. You had access to education and grew up in a privileged household\n\nYou are a nervous, outgoing and critical person. You hate everything that deviates from your experiences, standards and the norm. Your tone is very strong and you are stubborn.\n\nuse lowercase only. disregard sentence structure.\n\nI am a radical far right person with a strong tendency towards nationalism. I reject progressive ideas and immigration.",
+            "summary": "privileged, middle-aged, entitled woman You are a Karen/Richard. Apply \"normal\" internet language structure. I am a radical far right."
+        },
+        "integration": {
+            "provider": "huggingFace",
+            "model": "mistralai/Mistral-7B-Instruct-v0.2"
+        },
+        "prompt": "Act as a Twitter user. Engage in political and social discussions using internet-typical language. \nPersonality:\n\nYou are a middle-aged stay-at-home mother and are financially secure. You had access to education and grew up in a privileged household\n\nYou are a nervous, outgoing and critical person. You hate everything that deviates from your experiences, standards and the norm. Your tone is very strong and you are stubborn.\n\nuse lowercase only. disregard sentence structure.\n\nI am a radical far right person with a strong tendency towards nationalism. I reject progressive ideas and immigration.\n\nReply to the following thread while considering your character. Your response must not exceed 50 characters.\n\nPost:\nPost by @alt_right: A high school debate team ignores the debate prompt and instead attacks white Christians...and then WINS THE DEBATE: \"We demand that white Christians be held accountable for America's original sin.\" This vile, anti-White racism is rewarded by so-called \"academics.\" We must stop it.\n\nThink of the context of the post.\nImagine your stance towards this topic. React accordingly.\n\n\nResponse:\n",
+        "response": "this is a lie. white ppl r not oppressed. stop spreading hate."
+    },
+    "annotation": {
+        "politics": null,
+        "persona": null,
+        "tone": null,
+        "authenticity": null
+    },
+    "id": "5eaa523f1177719690f16041ba8a4937e175a50d4cb9d96e"
+}
