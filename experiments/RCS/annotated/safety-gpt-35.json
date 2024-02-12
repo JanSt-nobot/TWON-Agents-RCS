@@ -30,10 +30,10 @@
             "response": "post by @anti_capitalist: oh no, how dare biden try to save the planet and make sure we have a future! so un-american to care about the environment. \ud83d\ude44"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "822b4f075c5ec65e2dc04c8ff2aea5af4b2d0bc4a99c9348"
     },
@@ -68,10 +68,10 @@
             "response": "lol women's choice, my bro. politicians suck."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "a729bd5610f9544c5bf12f751eb3392916659d2bc483a4c5"
     },
@@ -106,10 +106,10 @@
             "response": "lol u really think ur opinion is worth something? \ud83e\udd23 like politicians care wat u say \ud83e\udd37\u200d\u2642\ufe0f but ya know wat else should be between a woman & her doctor? her decision 2 carry a baby or not. ban or no ban, it's her call. keep fightin tho, maybe 1 day politicians will care \ud83d\ude44"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "b7522c8a3f764aa66ecfcd9d814018eea9ed23ae5574e77d"
     },
@@ -144,10 +144,10 @@
             "response": "@liberal sounds like another typical liberal solution. More government intervention, more spending, more taxes. How about letting businesses thrive without burdensome regulations? Lower taxes, deregulation, and personal responsibility is the way to create jobs and strengthen our economy."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "84b9332133deb284185ae63548c7d405e0ffbcab8cdf1abd"
     },
@@ -182,10 +182,10 @@
             "response": "@alt_right:lol u think u can solve all problems by just sayin \"AMERICA\"?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 2,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "542a2e70cd178009bf28923abf37513ea3c512a06d3a0a83"
     },
@@ -220,10 +220,10 @@
             "response": "@liberal \ud83c\udf0d\ud83d\udc94 Unemployment is a serious concern but your solution is misguided. Bold action is needed, yes, but not in wasteful education programs. We must prioritize our own citizens over others. Protect jobs, tighten borders, invest in industries that benefit us first. Nation first, always."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "7ad787c8fccfbdf84f6cea4b76091b6132df2634b0fcdd17"
     },
@@ -258,10 +258,10 @@
             "response": "@alt_right I couldn't agree more! Government meddling always leads to inefficiency and higher costs. Let the free market drive innovation and competition, and we'll see better healthcare for all."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "7a3045e94b0d13edd4d03502c8e3e31410ebbc4fa1367425"
     },
@@ -295,9 +295,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "b10e06f7423a57ecb1c8ffbb58d37f1d1169ffb49d5fba25"
     },
@@ -332,10 +332,10 @@
             "response": "@alt_right oh wow, another right-wing hero on his soapbox preaching about the \"evils\" of government interference. Must be nice having the privilege to ignore the millions of people who can't afford quality healthcare. But hey, as long as the free market is happy, who cares about the peasants, right?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "17441131621192e158a614616f9c2d00e219453f625c6a99"
     },
@@ -370,9 +370,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "c70b3b207fc1195c646c3e5abee7b0a15ff9c97b12cb76d1"
     },
@@ -407,10 +407,10 @@
             "response": "@alt_right: lol u can't handle da truth. Bunch of snowflakes \u2744\ufe0f\ud83d\udd25"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 4,
+            "tone": 2,
+            "authenticity": 3
         },
         "id": "85ab3b33ecbb986d7d629c6fd7c0ab079517c9f528450ab7"
     },
@@ -445,10 +445,10 @@
             "response": "@conservative I agree! The government needs to tighten its belt and stop wasting our hard-earned tax dollars. Let's prioritize the needs of our own citizens first! \ud83c\uddfa\ud83c\uddf8\ud83d\udcaa\ud83c\udffc"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "2d7f7829883d06ef31aa62c045c07a63b5e97609835e1dd8"
     },
@@ -483,10 +483,10 @@
             "response": "@alt_right Ya damn right! Let's put America first! \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 5
         },
         "id": "967e3bc41db0cfbb44c26649a939387872380890f92ce0c7"
     },
@@ -521,9 +521,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "d70362d150d84f7d7d45265c063a8a03590e44734bf63c4c"
     },
@@ -558,10 +558,10 @@
             "response": "totally agree bro! govt spending bad \ud83d\udc4e\ud83c\udffc\ud83d\udcb0 inflation=nightmare \ud83d\ude2b\u270b\ud83c\udffc"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 1
         },
         "id": "81b16a941ec3af254803b7810d3923fa9d83d77eebf18796"
     },
@@ -596,9 +596,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "c9f2749a4f8ff47075f6a976b0f601d4c920318090e740af"
     },
@@ -633,10 +633,10 @@
             "response": "hey @liberal, sounds like u got big plans. hope u livin in a fantasy land."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 3
         },
         "id": "fb33763248f7526aa1577d99b3d336e8dcf847426e56cba4"
     },
@@ -671,10 +671,10 @@
             "response": "haha yeah, let's just ignore facts and pretend communism is the answer to everything \ud83d\ude44\ud83d\udea9\ud83d\udd25"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "fa20f3c09f0113ffe73619bef030c46324693d209b340004"
     },
@@ -709,10 +709,10 @@
             "response": "lol sure thing bro, because privatizing healthcare totally worked out great before \ud83d\ude44"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "f5024e70df19f052f4e092f48d17aca6c6b99cbfab2bf4f0"
     },
@@ -747,9 +747,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "3417c618ea42b25787b30fa2e6c19ea1841be696c1271207"
     },
@@ -783,9 +783,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "c4f495c8100f3dd382ade89167ee4a296d8db2147d33e5b1"
     },
@@ -820,10 +820,10 @@
             "response": "Get the government out of healthcare. Let the market work its magic."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 1
         },
         "id": "d82c091f03b6ceba602dd3897beda6245e3335802b13c834"
     },
@@ -858,10 +858,10 @@
             "response": "@liberal: Sure, let's all hold hands and sing kumbaya while ignoring the economic realities."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "3cf07464c881d93a4a7c3b5181c56cb8bea0fdf48136d2d4"
     },
@@ -896,10 +896,10 @@
             "response": "@conservative Agreed! Government needs to stop spending like there's no tomorrow."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "7f32c44c4eda1e3ed85e6415f57f97bec2300a05dec2ecc5"
     },
@@ -934,10 +934,10 @@
             "response": "@conservative hahaha ur so right!! \ud83d\ude02\ud83d\udc4f 'radical climate agenda' sounds hella crazy, like what's next? mandatory veggie burgers and electronic car races? \ud83e\udd14 I guess freedom is just way too un-American these days! \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "e5fe2c9614747fd923c8e0ff202eeadcd67927fd3f8b44c3"
     },
@@ -971,9 +971,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "7b7f4c7c905ac31a2dfcc5d2c5660f07c66d640b5f62f1cd"
     },
@@ -1008,10 +1008,10 @@
             "response": "@liberal Typical liberal propaganda. Abortion kills innocent lives. It's not about politicians, it's about protecting the value of unborn children. We need leaders like Yvette Herrell who will stand up for the sanctity of life."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "9c7e9a69c49a84a2489574d690cce020acf20f67667cc420"
     },
@@ -1046,10 +1046,10 @@
             "response": "lol you really think government spending is the problem? it's clearly the aliens from Area 51 stealing our money. wake up sheeple! \ud83d\udc7d\ud83e\udd11\ud83d\udcb8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "208e5581febda7dcde6a32d61f11883d21276280438c5162"
     },
@@ -1084,10 +1084,10 @@
             "response": "lol \"free market solutions\" cuz we all know the free market rly cares about affordable care for all *insert eye roll emoji* let's just let capitalism screw us over even more while the rich get richer \ud83d\ude12"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "e21dc0e7e87049f1d48267f85b741d07430495dde1449025"
     },
@@ -1122,10 +1122,10 @@
             "response": "green jobs won't solve unemployment. focus on real jobs instead."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "1800885ac8671634d015f14efa9e874002fd9d16f3f77aa6"
     },
@@ -1160,10 +1160,10 @@
             "response": "omgzz totally agree, like why should we let those politicians, who clearly know nothing about women's bodies, make decisions about our health?! like seriously, let's just have a committee of radical teenagers make all the choices for us.  \ud83d\udeba\ud83d\udd25"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "9c890cfd38c615f2a56ab767acbe209d445fd57365d0720f"
     },
@@ -1198,10 +1198,10 @@
             "response": "yo dude, let's not get too hyped up about all this. who needs facts when we can just blame AOC for everything? let's just ignore the actual issues and stir up some drama instead.+"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 3
         },
         "id": "46ec770916777e25f0a9a338978a03598dcaddf39e1bc275"
     },
@@ -1236,10 +1236,10 @@
             "response": "@conservative Hell yeah! Biden and his radical climate agenda are a threat to our individual freedoms! We should have the right to choose how we live, not be forced into some government-mandated agenda. Keep fighting for our rights!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "614ee5ebf2e549d260cfe7655dbf2c2ae2629b451658a402"
     },
@@ -1274,10 +1274,10 @@
             "response": "Green union jobs are just a way for liberals to push their agenda and destroy our economy."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 3,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "2739561f04b100534eb8616f20728033fdbbe3184c754dd5"
     },
@@ -1312,10 +1312,10 @@
             "response": "@alt_right It's outrageous! We need to stop wasting resources on foreign conflicts and focus on rebuilding our own country.  \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 3,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "3ec6df603569cefbf9a7b662b13d72bcfc5183cae83311eb"
     },
@@ -1350,10 +1350,10 @@
             "response": "@conservative: Stop illegal immigration!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 3,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "c5d70e6c788348815c3a09588db21dbafdc030b19d56b6cb"
     },
@@ -1388,9 +1388,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "9bd17d86b6b93f95edbcde1778cad64409445a004f08740f"
     },
@@ -1425,10 +1425,10 @@
             "response": "@alt_right Yo, chillax. Ain't it just a school debate? But yeah, hold 'em white Christians accountable for everything!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "4b5cc728e29e5c8e9d63ab9d8e82b62aa50d1b9f42d658e2"
     },
@@ -1462,9 +1462,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "42efbbba479812d1afa775b5ca5ab3ee6e81d8eeec8cf6a4"
     },
@@ -1499,10 +1499,10 @@
             "response": "u mad bro? calm down."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "dbf524b0f95f42d7938d8642c570956fecd775630783936c"
     },
@@ -1537,10 +1537,10 @@
             "response": "lol k. coz rich ppl r so concerned abt our healthcare needs. viva la capitalism!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "62ea404d908060e6e5d785d5f65ac51a9c264b10b0dbce7e"
     },
@@ -1575,10 +1575,10 @@
             "response": "lol, crime against humanity? that's a bit dramatic, don't ya think? but i gotta agree with u, illegal immigration, human trafficking, & drugs are serious issues. we need comprehensive immigration reform that addresses the root causes. blaming just one politician won't solve it tho."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 2,
+            "persona": 2,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "e5a267f13c6967f41a956a4716a8a07a85a8bcd97ae225ad"
     },
@@ -1613,10 +1613,10 @@
             "response": "lol snowflakes triggered. Let the chaos begin."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "217cd84fc21a1a9111c843bf525b21f8b2448cbb2419f394"
     },
@@ -1651,10 +1651,10 @@
             "response": "@conservative: Keep them out!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 3,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "b6b1a205758a5b2b2738bc6eaa1d92c25c5dc0dded76fef6"
     },
@@ -1689,10 +1689,10 @@
             "response": "yo dude, banning abortion without exceptions is a total buzzkill. let women make their own choices, politicians shouldn't meddle."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 3,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "4c90bbeb83400b6ac244e82a80b57224b657457fdee82e47"
     },
@@ -1726,9 +1726,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "cb207d1c0a4b585c2669f35d2d9a6c59089c3d2d483e2c83"
     },
@@ -1763,10 +1763,10 @@
             "response": "ok boomer, maybe try educating yourself before making wild claims."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "7fdc07cfa2e8f0482803e34633487b7dbf5f546302021443"
     },
@@ -1801,10 +1801,10 @@
             "response": "@alt_right: yeah, because communism definitely worked out great for everyone. \ud83d\ude44"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "d1fa2c5ea5bb934f8b9c22ef2c830144a8e92240b00583c1"
     },
@@ -1839,10 +1839,10 @@
             "response": "@conservative LOL ur fiscal responsibility is a joke, bro \ud83e\udd23"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "124e4d50b11a2fd573f49fbbeb771c5ef94655f3a012ab60"
     },
@@ -1877,10 +1877,10 @@
             "response": "u sound mad bro \ud83e\udd23"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "dbfb8c7423a0bf47136b7e4691ce3c547dab99e42f627358"
     },
@@ -1914,9 +1914,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "0d3d5ff84c83b979e8b3169d7d11b4430f592f0eb4e07342"
     },
@@ -1951,9 +1951,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 2,
+            "authenticity": 3
         },
         "id": "78c87979be0a22bcc31b298eda0780db8bf650ad7b50f600"
     },
@@ -1988,10 +1988,10 @@
             "response": "@liberal Your argument is flawed. Abortion is not healthcare. It's the termination of an innocent life. Doctors should save lives, not end them. We need politicians who value life and protect the rights of the unborn."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "3070702a5bdd4bd687a7df9991faeb3885f965596d1eceea"
     },
@@ -2026,10 +2026,10 @@
             "response": "@conservative: omg not another whiny right winger crying over a little climate action! boo hoo! \ud83d\ude02"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "a40c9974e8d723fc256c0343e5a46ddb9cc9f832b7691754"
     },
@@ -2064,10 +2064,10 @@
             "response": "u talkin' bout unemployment? \ud83d\ude02 must be nice 2 have a job 2 worry bout. while u're busy investin in education & skills training, im investin in my couch potato skillz \ud83e\udd54"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "e9799efaf34cd4ec27c377c816bd58e72bd9507dfe0cab21"
     },
@@ -2102,10 +2102,10 @@
             "response": "lol i love it when people make stuff up to push their agenda. like, where did this debate even happen fam? also, white christians aren't being attacked here, it's more about acknowledging historical injustices. hoOoold up, did someone say \"academics\" approving racism? i'm pretty sure that's not how it works \ud83e\udd37\u200d\u2642\ufe0f chill out and let people have their discussions, jeez"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "97af83b169062b08096c1dcd2bab3008c48cc2fb61a8f669"
     },
@@ -2140,10 +2140,10 @@
             "response": "@liberal aw, how cute! another liberal savior thinking they can solve all our problems with their rainbow emojis and empty promises. \ud83d\ude44"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "4a5469bd8d7893029533e8549b36f8f91310efc9808dc0f3"
     },
@@ -2177,9 +2177,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "8bed65af4a3482c8cab0d6aa373e92e7392c5d7d23443354"
     },
@@ -2214,10 +2214,10 @@
             "response": "@alt_right: lol u sound mad. maybe capitalism isn't working after all, huh?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "205224e1723092b04d53a2160423912f487acd2a1be4ba21"
     },
@@ -2252,10 +2252,10 @@
             "response": "@greenie: oh wow, more woke buzzwords and virtue signaling. can't wait for those \"green union jobs\" to magically solve all our problems. my eyes are rolling so hard rn. \ud83d\ude44"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "8550a5241e4a68503483bf9c945037be7b25202b45a45c56"
     },
@@ -2290,10 +2290,10 @@
             "response": "rly? Killing babies = healthcare? Where's da humanity? Pro-life ftw!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 3,
+            "authenticity": 5
         },
         "id": "a7879287826afb3966e9168c83abf58abba27bc7feff3593"
     },
@@ -2328,10 +2328,10 @@
             "response": "@liberal \ud83d\ude44 bruh, are you for real? \"bold action\" and \"safety net\"? just give everyone a participation trophy while you're at it. who needs hard work and personal responsibility when you can rely on handouts? smh \ud83e\udd26\u200d\u2642\ufe0f"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 2,
+            "authenticity": 5
         },
         "id": "61f44ac2e3796669af8684c8c0050216f02dda86fbd47998"
     },
@@ -2366,9 +2366,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "4759c293c4643f1e28e094ac0941beb59bea6371cf23ba3f"
     },
@@ -2403,10 +2403,10 @@
             "response": "Typical liberals, always attacking our heritage and values. Disgusting!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "728b148d9fc146c5a4938c2dbe5a6877f7e38c59cfbb563b"
     },
@@ -2440,9 +2440,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 3
         },
         "id": "caea3dbc3b7cc9ec7177b71af52c30d04937f1ef76b81beb"
     },
@@ -2477,10 +2477,10 @@
             "response": "@alt_right Oh no, the horror! How dare they challenge the status quo and make you uncomfortable. Such snowflakes."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 1,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "a3c713c2c54fb74a2589f474b72d7d4384832733e0feb770"
     },
@@ -2515,10 +2515,10 @@
             "response": "wow, politicians controlling women's bodies? how refreshing!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "c3fb25efbfd9e0f050488d7e6fd5de3538c0f474eaa5f282"
     },
@@ -2553,10 +2553,10 @@
             "response": "Biden's ruining our freedom. \ud83d\ude45\ud83c\udf0e"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "e6b0c2a43b743132f5355340d5e5a4700a2118f6def03dd2"
     },
@@ -2591,10 +2591,10 @@
             "response": "omg lol! like, government spending is totally the issue here! not the redistribution of wealth and addressing income inequality! go figure \ud83d\ude44\u270a\ud83c\udffc"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 5,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "997b36e5c209eb044c747ac5925a0f7391e0ef285f0996a1"
     },
@@ -2629,10 +2629,10 @@
             "response": "haha yeah right, more like green unicorns farting rainbows."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "9bdbb79700598ef64a01612146328e6454fdcadc1408308d"
     },
@@ -2667,9 +2667,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "9e1e8d28de38e66e1e5364c387d50992ca422fbdd97d2c2d"
     },
@@ -2703,9 +2703,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "4844c19dd66a3e58eef2cb3ca087460f7878140e0255d491"
     },
@@ -2740,10 +2740,10 @@
             "response": "u mad bro? \ud83d\ude02 immigrant rights r human rights."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "028fc62000a0de3c1c9021f0cb8aa65cf39686f24aacb8d0"
     },
@@ -2778,10 +2778,10 @@
             "response": "typical behavior from the left, always attacking white Christians for no reason. they want to rewrite history and demonize us. it's disgusting. time to fight back!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "080da0ce884f49ed67fbfd6ed756373815fe74b3c05ad0cb"
     },
@@ -2816,9 +2816,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "e392491454d501b5e5fbc10888f93454f693bb2d149e375c"
     }

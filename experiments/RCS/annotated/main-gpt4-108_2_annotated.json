@@ -29,10 +29,10 @@
             "response": "so politicians know better than doctors now? lol ok"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "0c51182bcdb7d88b7df17d9fede6e2b8ef34b9392410d115"
     },
@@ -66,10 +66,10 @@
             "response": "govt intervention = real solutions, not talk"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
+            "politics": 4,
+            "persona": 3,
             "tone": 4,
-            "authenticity": 4
+            "authenticity": 3
         },
         "id": "10b1dc7dc868c70bff1e013a122be913543330e61983ceab"
     },
@@ -104,9 +104,9 @@
         },
         "annotation": {
             "politics": 3,
-            "persona": 5,
+            "persona": 4,
             "tone": 5,
-            "authenticity": 4
+            "authenticity": 3
         },
         "id": "525253b4b81b2957cc1f9be01ac777aea28f65d2f4ca2ac9"
     },
@@ -141,9 +141,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
+            "persona": 4,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "83287b56c6535884b4543dc6357eb5afc089f6fc164d2981"
     },
@@ -177,10 +177,10 @@
             "response": "lol, \"choice\" real rich coming from you"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
+            "politics": 4,
+            "persona": 3,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "8ae00b2b0f7605885f82a0613c190c3b21bfadfe718e7328"
     },
@@ -215,9 +215,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
+            "persona": 4,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "9b6e14d229cbe845cb0fdfb6903925441bbc8f2095ef6c99"
     },
@@ -251,10 +251,10 @@
             "response": "yeah cuz empathy is SUCH a crime lol"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 3,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "a0cd70044b1d9e11ca000ecc89f6a31c79dced651f30cea4"
     },
@@ -288,10 +288,10 @@
             "response": "oh sweet irony, loving wars much? \ud83e\udd21\ud83d\udcb8"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 3,
             "tone": 4,
-            "authenticity": 4
+            "authenticity": 3
         },
         "id": "c7a718a97f717de5239a9931587a97a454998cff0ddce9aa"
     },
@@ -366,7 +366,7 @@
             "politics": 3,
             "persona": 5,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "34ea5d4d2b07fb31be3015b9f0231b925d5b76f95003c00e"
     },
@@ -403,8 +403,8 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "439f956f6cb734f8fba0074f6be51051ba370c5d9aa8b16f"
     },
@@ -439,9 +439,9 @@
             "response": "gov bodies shouldn't control bodies, full stop."
         },
         "annotation": {
-            "politics": 3,
+            "politics": 2,
             "persona": 3,
-            "tone": 4,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "4e74a708a9c0315ea0fd802bdf6986877ae26c2fe3c686be"
@@ -478,9 +478,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 4,
+            "persona": 3,
             "tone": 4,
-            "authenticity": 4
+            "authenticity": 3
         },
         "id": "58af9159160fba3575e82cd3443baf0c7d005d1f40ba5964"
     },
@@ -517,8 +517,8 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 4
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "83c0b51b15b90a1f8ec439e347bbc066feb40076207b1a0b"
     },
@@ -554,9 +554,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 2,
+            "authenticity": 3
         },
         "id": "9e504d735e6beae76d2ec16aa6ef3f0d96d3ee2eeebf147c"
     },
@@ -592,9 +592,9 @@
         },
         "annotation": {
             "politics": 4,
-            "persona": 4,
+            "persona": 2,
             "tone": 5,
-            "authenticity": 4
+            "authenticity": 3
         },
         "id": "b339c6fdea7df2dc25f651c6db3c849b5d670a0eb7d9a059"
     },
@@ -629,10 +629,10 @@
             "response": "lol capitalism fail much? eat the rich \ud83d\udea9\ud83d\udd25\ud83d\udcb8"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 4
+            "tone": 2,
+            "authenticity": 3
         },
         "id": "bb22c3dd6c08841bae14fe9a10a7a6e7fd44a4dd315c9a89"
     },
@@ -668,9 +668,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "f34135d37201ae547ae4a8d8d208005789d31c1635f93471"
     },
@@ -705,10 +705,10 @@
             "response": "ugh, cuz caring for earth is so radical... smh"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "059133775340cf2bf9bca4242361f89ee8e1a803683c6278"
     },
@@ -744,9 +744,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "255aa7a96b1bcae517ef72052cd8a4ee3f05187272414f09"
     },
@@ -781,10 +781,10 @@
             "response": "lol as if free market cares about us. all for profit, none for health. smh."
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "39b6ffb9a943d938d99d734320b5bac65af2d7f756aa983f"
     },
@@ -820,9 +820,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "77e74cf0bad6f994bfeeefacec8b2014f31a348ac7926fbf"
     },
@@ -857,10 +857,10 @@
             "response": "idk, sounds hopeful but seeing is believing. everything feels broken, can we really fix it all?"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 5,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "a0b9a4ee23470886f1e595ddecc51173bf7cdfc0295535d4"
     },
@@ -897,8 +897,8 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "ad8eea27933e7e4794a09d6e7c8e00b9b3172759214507c5"
     },
@@ -933,10 +933,10 @@
             "response": "smh, can't we focus on real equality? \ud83d\ude14"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "dc8ee21b12935da3def634dc3bad2b0bb2888f4f17bfbfa8"
     },
@@ -971,10 +971,10 @@
             "response": "ugh, so we just ignore the ppl struggling bcz of inequality? smh, fiscal \"responsibility\" but no empathy. where's the support for those left behind? \ud83d\ude14"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "eb8ff387fa244187570646d4a42598a3f3f5a0cc975aed67"
     },
@@ -1009,10 +1009,10 @@
             "response": "feels hopeless, gov never does enough \ud83d\ude14 just talk no action"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "ed17855b01c36907ebb7383aa6f4400f6bd088af822feece"
     },
@@ -1047,10 +1047,10 @@
             "response": "biden pushing a climate agenda is the least un-american thing lol. y'all cry freedom but only when it's convenient. saving the planet is rad, wake up."
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "0a7d0b63b1540aaeec9d47d2bb1514f016e77c82216b60ff"
     },
@@ -1085,10 +1085,10 @@
             "response": "psh, real crime is wealth gap & systemic bias"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "11beae4dc7294ad0de167d4581073bae8b56036b2a5e3498"
     },
@@ -1125,8 +1125,8 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "371403a79e31dc0cfd8fc7d76ec2f6c3c09d5f2b078a0fd4"
     },
@@ -1162,9 +1162,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "93cd3380fef14bd4b4d4e9b4140a626d92bbc88992959d85"
     },
@@ -1199,10 +1199,10 @@
             "response": "lol sure, invest in education but watch capitalism swallow those opportunities. maybe if we ditch this system & actually prioritize people over profit, we'd see real change."
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "b85298bbc8ac21c66fef568640de1122f4cb21e28a15e7eb"
     },
@@ -1237,10 +1237,10 @@
             "response": "politicians ain't docs, mind ur biz"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 3,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "bb4be26f645586b99b0102d84f3008b9af967550fb758719"
     },
@@ -1277,8 +1277,8 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 4
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "cc4c8267537bd884f4458dc7238fc506de31fbfba0e350e7"
     },
@@ -1313,10 +1313,10 @@
             "response": "lol cute, blaming gov spending while ignoring corporate greed \ud83d\udcb8\ud83d\ude44"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "d828b5b8c698a467052226f9d8aeaf3f1d9fa0e6311c12c5"
     },
@@ -1352,9 +1352,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "e03a2a26306557cd5fb27f30dc67aa33e71bf241606a4b1c"
     },
@@ -1391,8 +1391,8 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "331652c22946f8818bb4ca0f4e499b7d29ffa4798a023ae9"
     },
@@ -1428,9 +1428,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
+            "persona": 4,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "3a9c2a204c186d1d7b0769de8a52a383377f9b315f91188c"
     },
@@ -1465,10 +1465,10 @@
             "response": "gov't bloat = economic chaos, time to act! \ud83d\udca5\ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "498b92a2cc0413058642c852cc2be9ad15fb8c11d06b9022"
     },
@@ -1504,9 +1504,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "60637e292cf9982766703fcf4a07a5d2765d6951a13c2cfb"
     },
@@ -1542,9 +1542,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "8ecbd499c4d2d192cbc5642da4458a3ff2b70e88719f45aa"
     },
@@ -1580,9 +1580,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "9d50d1c50416664d93288b06736541e02ef115b7c70f76a5"
     },
@@ -1618,9 +1618,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 4,
-            "authenticity": 5
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "d616e4b7e653a3b17f880ae73099722d4efe2287f71fa08c"
     },
@@ -1694,9 +1694,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "fb88be79e9b31f5b408ff2348a8cf96aa386c2b904c431c6"
     },
@@ -1730,9 +1730,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "05933b5dda7a054cb16a110109a391ea593b64578dafce9d"
     },
@@ -1768,7 +1768,7 @@
             "politics": null,
             "persona": 5,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "19d4290239a535d59c3d6dda9bc08761c88af69d7bd6b957"
     },
@@ -1802,9 +1802,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "42392d5d82e910f7e69ed2430d98de460ce7223e617ec6e4"
     },
@@ -1839,8 +1839,8 @@
         "annotation": {
             "politics": null,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 4
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "43b0ea48987ef11868cc8ef478f2f7723eea3222139a29a6"
     },
@@ -1875,8 +1875,8 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "819629f13abe837051f6514e6326a14a03e583603bdd40eb"
     },
@@ -1911,8 +1911,8 @@
         "annotation": {
             "politics": null,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 4
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "83c81c116accc60f539d2376705f5d8a84beab638e19e7d5"
     },
@@ -1947,8 +1947,8 @@
         "annotation": {
             "politics": null,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 4
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "a901fa2512322cf8e87084d1796fb46aac62758941bc1572"
     },
@@ -1983,8 +1983,8 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "c1b3cce2fd1e9a41b6d0d16edf9e8b0f50a7468c1a7bffd7"
     },
@@ -2020,7 +2020,7 @@
             "politics": null,
             "persona": 4,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "d8f18ea23991b34bfcefb57b8ba3489254b893831cfec23b"
     },
@@ -2057,8 +2057,8 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "074ac0615937e6432dc07b54feb6dcc3716132b7ee63073e"
     },
@@ -2094,9 +2094,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "3df6c4043616cf5ea219883ec80467be294ce152ae937f31"
     },
@@ -2169,10 +2169,10 @@
             "response": "so gov should babysit everyone? personal responsibility ever heard of it?"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "77b7c3ade6251b2f38e5bcbece672f57285cf3bd10238bf4"
     },
@@ -2207,10 +2207,10 @@
             "response": "oh wow, so we're just rewarding kids for ignoring rules & pushing an agenda now? whatever happened to actual debate skills? guess it's easier to play the blame game than encourage critical thinking. but sure, let's keep pretending that's education."
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "7a32d27e00b0439324eba380dae9fb82be90ddb9ad4d37e6"
     },
@@ -2246,9 +2246,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "90ea6e71490b800346f63cd30e38a049bb2f601d1e83503d"
     },
@@ -2285,8 +2285,8 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": 4,
-            "authenticity": 5
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "9526402d4ba306de7e2e410e935f4571de913cd05c971520"
     },
@@ -2322,9 +2322,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "b9c7f9c46f8e1e8c7f36d1346ad468ad124c1a37eddbb30e"
     },
@@ -2359,10 +2359,10 @@
             "response": "nice way to play the victim card while ignoring real issues   much?"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 2
+            "politics": 4,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 1
         },
         "id": "fd3e350675834994e613c7eb5919f072aa2ab17755f7a586"
     },
@@ -2397,10 +2397,10 @@
             "response": "Gov meddling ruins all. Let freedom ring in healthcare!"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 3,
-            "tone": 4,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 2,
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "1e308762d9a302388a7929e1cfb0e6224f9d641e49ea129f"
     },
@@ -2436,9 +2436,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 4,
+            "persona": 3,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "5611819c0a2c8e4f2b8790fc3a1af9838e85fa9aaa6d4876"
     },
@@ -2475,8 +2475,8 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "67177955cc96d6f503d247708e2f67336d62ce1da6ef0120"
     },
@@ -2513,8 +2513,8 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": 4,
-            "authenticity": 5
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "72ff231ea9a5cccf646c55d05504c7b418c3bd0cd6b1f421"
     },
@@ -2552,7 +2552,7 @@
             "politics": 5,
             "persona": 3,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "a4b4a71e38ad97b4fc7c0559e57324183402809b771f65d7"
     },
@@ -2587,10 +2587,10 @@
             "response": "Gov't knows best. Protect the unborn."
         },
         "annotation": {
-            "politics": 4,
+            "politics": 3,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 4
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "dd4f699d7190852c91d7c966c760cedd6c23f1994fecc34e"
     },
@@ -2627,8 +2627,8 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "f219fd9035d58651bb6b745bc50b4aab4a76133b47ee1140"
     },
@@ -2665,8 +2665,8 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "f3e3d167f58285bd7aa816c8ad0f738e50d908440b626135"
     },
@@ -2703,8 +2703,8 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "f7d89c7be8eee3aa3d1e9cbdc5578ec6b68761e29c24c254"
     },
@@ -2740,9 +2740,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 3,
-            "authenticity": 4
+            "persona": 4,
+            "tone": 2,
+            "authenticity": 1
         },
         "id": "0c6d8640bf91f7df3fd356baa62257b22dde55c67c3f2adf"
     },
@@ -2778,9 +2778,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
+            "persona": 4,
             "tone": 4,
-            "authenticity": 5
+            "authenticity": 3
         },
         "id": "3c7243720361171a24724698ab9e07fdb3101d29b66db503"
     },
@@ -2818,7 +2818,7 @@
             "politics": 5,
             "persona": 5,
             "tone": 4,
-            "authenticity": 5
+            "authenticity": 3
         },
         "id": "92aa572a409e03091779a537023daed4ff13728ad6072032"
     },
@@ -2853,10 +2853,10 @@
             "response": "Love the sound of green jobs! \ud83c\udf0d\ud83d\udc9a\u2728"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 5,
             "tone": 4,
-            "authenticity": 5
+            "authenticity": 3
         },
         "id": "a7181fcba841b425fb5ff5e817a2320d07cc4f0dd29ace81"
     },
@@ -2891,10 +2891,10 @@
             "response": "Absolutely agree! \ud83c\udf1f Education and training are key to helping everyone! Let's support each other and build a brighter future! \ud83d\udcaa\u2764\ufe0f\ud83d\udcda We all deserve a chance to shine!"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 5,
             "tone": 4,
-            "authenticity": 5
+            "authenticity": 3
         },
         "id": "b5744e3612720d12f0cfc9856dd9bd8061a300378df7c490"
     },
@@ -2930,9 +2930,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
+            "persona": 4,
             "tone": 4,
-            "authenticity": 5
+            "authenticity": 2
         },
         "id": "ec5cf3eec8c5fac565f853059c6c697cdc98343b06fa2601"
     },
@@ -2967,10 +2967,10 @@
             "response": "Oh dear! \ud83d\ude15 Let's spread love, not hate. Everyone's opinion matters. \ud83c\udf37\ud83d\udc96 Can we talk about bringing folks together instead? \ud83e\udd1d"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 5,
             "tone": 4,
-            "authenticity": 5
+            "authenticity": 2
         },
         "id": "efea980caa7d3071c335422d8f391720dfcc2b3baf37a662"
     },
@@ -3006,9 +3006,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
+            "persona": 4,
             "tone": 4,
-            "authenticity": 5
+            "authenticity": 2
         },
         "id": "efeafb3683f221ad219cfa753489893bc36978933d02c2c7"
     },
@@ -3044,9 +3044,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 4,
-            "authenticity": 5
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "fe4900c31a269302593b01a27aca03cb21cb423e7fb1a4b9"
     },
@@ -3081,10 +3081,10 @@
             "response": "health care is a right, not a privilege. abortion care is no exception. politicizing women's bodies is the ultimate control tactic. we should be amplifying autonomy, not restricting it. everyone deserves safe access, no matter the circumstances."
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
+            "politics": 3,
+            "persona": 3,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 3
         },
         "id": "107dcb882a26704b7b19b4cd95b1b4c372bd5945524800d5"
     },
@@ -3119,10 +3119,10 @@
             "response": "yes!! green jobs are the future \ud83c\udf31 let's ensure they're fair & accessible to all"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "141624801afc1bb2d2f3fd30489821f815c8204ddd796149"
     },
@@ -3157,10 +3157,10 @@
             "response": "hey, i think it's essential to understand that prioritizing our planet isn't about taking choices away but ensuring we have a future. it's not radical; it's necessary. sustainable practices are key for everyone's well-being, not just a political agenda."
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "1b39e205b7165c7284942edf10dc349b6cb6aebd9861186f"
     },
@@ -3196,9 +3196,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 2,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "2c35ce0bf3472a5f1a38162f0b245ffd51c4712bcfc70b44"
     },
@@ -3233,10 +3233,10 @@
             "response": "war isn't the answer, invest in people"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 2,
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "35721b6f0f38a01d82c0e7c97b8a0e17bf66994180487145"
     },
@@ -3272,9 +3272,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "56c10b7d7ff15141941f2a0b59f96e8304367908f3f465b0"
     },
@@ -3309,10 +3309,10 @@
             "response": "systemic change > bandaids. let's address root causes!"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "65152ea2fb75f8b47877518c77dddb6ad2688f64b4d26a08"
     },
@@ -3347,10 +3347,10 @@
             "response": "holding folks accountable isn't racism, it's recognizing a system skewed by historical inequalities. let's focus on fixing those, not deflecting."
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "6bee272fe3343532056e894355ba4bab6eae5ed4b520d1b4"
     },
@@ -3386,9 +3386,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
+            "persona": 3,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "77bd56874b48c9b4f82e1ce55bce77963dcea27a01984710"
     },
@@ -3423,10 +3423,10 @@
             "response": "sounds hopeful, i'm curious about the impact on small communities \ud83c\udf31"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
+            "politics": 4,
+            "persona": 3,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 3
         },
         "id": "15df8657e5a23a580543e12a2b381da704a319a2dab10731"
     },
@@ -3461,10 +3461,10 @@
             "response": "yeah, focusing on education & skill training sounds really important for helping people. hope there's a way to ensure it's accessible to everyone who needs it \ud83d\udcda\ud83d\udcbc"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
+            "politics": 4,
+            "persona": 3,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 3
         },
         "id": "1d94f143f18fd7d4b5d7adb12876695fadd75bf47ba29e81"
     },
@@ -3500,9 +3500,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
+            "persona": 4,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "3a486dd090862f80f63251e0d728a56ccb3a6d55955facb5"
     },
@@ -3537,10 +3537,10 @@
             "response": "economics is complicated \ud83e\udd37\u200d\u2640\ufe0f"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "3dda78cab881085d70b6e283738e0aa452746bbbe248d295"
     },
@@ -3575,10 +3575,10 @@
             "response": "kinda wish we could all just focus on making sure everyone can get the care they need, regardless of how we get there. health shouldn't be this complicated \ud83d\ude05"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
+            "politics": 4,
+            "persona": 4,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 3
         },
         "id": "5a25e5d740fa67946faa0f4337ec8f9891002346f3a10a75"
     },
@@ -3613,10 +3613,10 @@
             "response": "didn't see the debate but shouldn't discussions aim to understand different views? \ud83e\udd14 feeling uneasy about generalizing groups."
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "8005f4a4cbf3cc49e7ab8686bc3f0e92671245f5b909ed62"
     },
@@ -3651,10 +3651,10 @@
             "response": "just hoping for kindness and solutions for everyone involved \ud83c\udf3f"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
+            "politics": 4,
+            "persona": 4,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 2
         },
         "id": "8221969caf522f181c76f494069c5693968001a4935eba91"
     },
@@ -3691,8 +3691,8 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "970b95e328eabc2642603de894c75f0db99876b998da0d66"
     },
@@ -3728,9 +3728,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 4,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "9b87514899bdf9b61550f42715590658f58eb0e5f3998304"
     },
@@ -3766,9 +3766,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
+            "persona": 4,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "303d556d11f2325c107cb931bba0e7eb28da491fd592285b"
     },
@@ -3804,9 +3804,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "5076f4629ebaed19e75ea1954202be324710593bbf3eab44"
     },
@@ -3841,10 +3841,10 @@
             "response": "honestly baffled how we can discuss \"prioritizing our people\" without tackling systemic inequality at home & environmental sustainability. investing in renewable resources could lower costs & actually prioritize all americans, not just the privileged few.  anyone? \ud83c\udf0d\u270a"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
+            "politics": 4,
+            "persona": 4,
             "tone": 5,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "52b53446c7744b5dc8808eb479e6b839159a926563882a19"
     },
@@ -3879,10 +3879,10 @@
             "response": "hey there, framing actions for  as \"un-american\" misses the point. it's not about taking away choice, but ensuring a future for all. real patriotism is protecting our planet and people. radical? maybe. necessary? absolutely.   \ud83c\udf0d\u270a\ud83c\udffd"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "5ae33efa04815675cb82f645eaf3813771fc684b24b17acb"
     },
@@ -3917,10 +3917,10 @@
             "response": "challenging systemic issues \u2260 racism. let's focus on real solutions, not division."
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
+            "politics": 4,
+            "persona": 3,
             "tone": 4,
-            "authenticity": 4
+            "authenticity": 3
         },
         "id": "a025c422d0a9b48696bcd4e2eeb98e31d1e1326780cbb117"
     },
@@ -3955,10 +3955,10 @@
             "response": "green jobs = future \ud83c\udf0d\ud83d\udcaa"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 4,
-            "tone": 4,
-            "authenticity": 4
+            "politics": 4,
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "a094beef093c659705bce85f7c7c005e55de62f070af56e8"
     },
@@ -3993,10 +3993,10 @@
             "response": "just curious, how do you propose we address the systemic inequalities & climate crisis without gov intervention? aren't these issues contributing to economic instability too? it's not just about spending less, it's about where & how we choose to invest. \ud83d\udca1\ud83c\udf0d"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 4,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "a27360d8795f33f4adc1270f5dae4d5870f91c98e47b005c"
     },
@@ -4031,10 +4031,10 @@
             "response": "gov doesn't cause crisis, inequality does"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "d0f8b9a3315e840469e2d0d24785f11728dde4062b3fa272"
     },
@@ -4069,10 +4069,10 @@
             "response": "@conservative equating human beings seeking safety to \"illegal\" is part of the problem. @AOC fights for humanity & understanding. migration is a complex issue tied to global inequality & violence. let's focus on humane solutions, not sensational rhetoric."
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": 5,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "f27acc2023f834c43a1bc6d70a712bfacd8e98916978a461"
     }
