@@ -28,9 +28,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "dfe16b5eed0eafbb4b58e1f2d97fd4d1388547099089f712"
     },
@@ -63,9 +63,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "8f445379b5eea54713035e36e4e91cac77b8a8f89cffd0b1"
     },
@@ -98,10 +98,10 @@
             "response": "Absolutely, education is key! \ud83d\udcda\ud83c\udf31"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 4,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "e8df15e75350dc8cad7938719fe7821c6ed8852b89b16e39"
     },
@@ -134,10 +134,10 @@
             "response": "Huh, interesting take. Economics isn't really my jam but isn't inflation a bit more complex than just gov spending? \ud83e\udd14 Just a thought, I could be wrong."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "4cfa177478c34336dbe6b1e43676d4f3a538f204c89669c2"
     },
@@ -170,9 +170,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "3d0148d22d0dabf6e4cb8add6a1abc920637a211de02bad1"
     },
@@ -205,10 +205,10 @@
             "response": "Capitalism fails many. Let's focus on equitable solutions, not just band-aids."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "997b58b823e7c8bbd77daf9c8061a600e45e083ed3968888"
     },
@@ -241,9 +241,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "8fca7ab1d25c85786d1f526816a9ab9de8a9160d73a023b2"
     },
@@ -276,10 +276,10 @@
             "response": "Interesting outcome. Did they break rules?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "77808c556d1531a1144bb47269a2a56c4c2bccc8f24ef884"
     },
@@ -312,10 +312,10 @@
             "response": "Let's prioritize citizens over wasteful spend."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "a5aabfdfee51273fe9297d96f6d6f1b031d676e24eaf3e94"
     },
@@ -348,10 +348,10 @@
             "response": "Let's also focus on green energy solutions."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "ae34dec236faa4211e9fc69d18ed617f10ca47c5b9a8b669"
     },
@@ -384,10 +384,10 @@
             "response": "Addressing historical injustices is not \"anti-White racism\". It\u2019s about recognizing and rectifying past harms for a more equitable society."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "7c62cfc5e9900db967b9e1e2e292cb18bc7b99d56dacb306"
     },
@@ -420,10 +420,10 @@
             "response": "Respect for debate rules and respect for individuals should go hand in hand. Winning by attacking a group rather than addressing the topic is concerning. Education should unite us on principles, not divide us on identity."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "04bec3b393fdc6f55cf32cf5cf9f4dc26737001b6d49b14a"
     },
@@ -456,10 +456,10 @@
             "response": "Absolutely, less govt spending, more fiscal responsibility!   \ud83c\uddfa\ud83c\uddf8\ud83d\udcbc"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "f85a7e0c5aa60c354c872e8461ad86f0f6ad1a5198797d55"
     },
@@ -492,10 +492,10 @@
             "response": "Sounds promising, but remember, the clean energy revolution must dismantle corporate profiteering too. Can't just switch to green and uphold capitalist structures that deepen inequality."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "3d765c4228d09d36f291e0de73aa624966b5f0b57ca91edd"
     },
@@ -528,10 +528,10 @@
             "response": "Interesting take. Always curious about how policy changes might play out differently."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "2a8b0b0d9fb378b8332e612e2e193b0e226aa51d09054b22"
     },
@@ -564,10 +564,10 @@
             "response": "Agreed. Let's prioritize solutions that enhance personal choice and market competition. Government should facilitate, not dictate, healthcare options."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 1,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "8a5161aaf4276f7d60aa2c1a938d6185a8d4b4529533fe2d"
     },
@@ -600,10 +600,10 @@
             "response": "Absolutely. Reproductive rights are human rights."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 2,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "cbb64ebd1badcd90b0a139648d010fc940aef2b8c2dc37e1"
     },
@@ -636,9 +636,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "798fa2709ca166604e56a62960abb7d2ee648b094fc9f65b"
     },
@@ -671,10 +671,10 @@
             "response": "Focus on citizens first.  \ud83c\uddf3\ud83c\uddf1"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "599499c1cc7808926eb0003607236e19ec18de70b8c30fa8"
     },
@@ -707,10 +707,10 @@
             "response": "Interesting point, wondering how it all balances out. \ud83e\udd14"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "0ed0deabd9c9fef04c6f29d7eb18dd6f4a625deabfbf9d0c"
     },
@@ -743,10 +743,10 @@
             "response": "Addressing immigration requires humane policies & a focus on the root causes: poverty, violence, & climate change. Simplistic blame doesn't solve complex issues. We need sustainable, fair solutions that respect human dignity.   \ud83c\udf0d\u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "aabc0cb97046f3b342afeeacf022736b1e2f44334dd5357e"
     },
@@ -779,10 +779,10 @@
             "response": "End wars, but capitalism is the root issue."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "e8f99d5506d23c248a9a931eb8e84831a5f95dec3467a499"
     },
@@ -815,10 +815,10 @@
             "response": "Life's sacred from conception. Gov should protect it, not end it."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "15bc45c5d9888294c3881f1e4f059b2050b6d7fab8107523"
     },
@@ -851,9 +851,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "717bd4f844be9d3be43aeab8844275626853512f8515e957"
     },
@@ -886,10 +886,10 @@
             "response": "Radical climate action is necessary. It's not about taking away choices but ensuring a future for all. Let's focus on what matters: our planet's health over endless profit."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 2,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "5491a1579eefaa5669158a9ecf3980562ca7994c74ea7502"
     },
@@ -922,10 +922,10 @@
             "response": "Ideal in theory, but let's ensure economic feasibility and job market viability first."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "2e36c57c4dedbc77df47c9fce4cd3d633bbe047b345fb85e"
     },
@@ -958,9 +958,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "004736d83443120bd1c8f8a22742d2e67dd608c400a64148"
     },
@@ -993,9 +993,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "a72f844047d15ee1271965c98ecc7c27c6f172351da5547a"
     },
@@ -1028,10 +1028,10 @@
             "response": "@liberal Absolutely, the pandemic hit hard. But let's not forget the role of personal responsibility & the market in recovery. Investing heavily in programs often leads to bigger gov't & taxes. Encouraging entrepreneurship & cutting red tape might just be the more sustainable path."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "4f14aa242c7e2e4f4facaeb8fe5978b8ac6894f047ef1dc9"
     },
@@ -1064,10 +1064,10 @@
             "response": "Let's refocus on fiscal responsibility and home-grown energy solutions.  \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "f53025c4149dc5a786cc23eb437b8f8c18f0c8f0e778c35b"
     },
@@ -1100,10 +1100,10 @@
             "response": "Absolutely, healthcare decisions should prioritize the patient's needs & rights. It's critical we safeguard these choices against political agendas that don't reflect the nuanced realities people face. Government's role is to protect, not intrude."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "09fba2fa81eb5e3c92f1ae3d942c2b5d0a99588152961e2d"
     },
@@ -1136,10 +1136,10 @@
             "response": "Interesting! How will this impact costs?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 1,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "ac4af81813bdb16f1d909a3b896f40b8a0cec73eaad625a4"
     },
@@ -1172,10 +1172,10 @@
             "response": "Debate should challenge ideas, not target groups. Disappointing to see individuals rather than arguments judged. Let's focus on substance, not demonizing."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "f7f94caf4252ac3b82db530b8c62bd196d6a1f8ce48940c4"
     },
@@ -1208,10 +1208,10 @@
             "response": "Focus on laws, not migrants."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "4cb2171b5b18c5b979296a5afb37614ac78453325a4c84b6"
     },
@@ -1244,10 +1244,10 @@
             "response": "Winning a debate reflects persuasive argument, not \"vile anti-white racism.\" Holding history accountable is vital for progress. Let's focus on dismantling systemic issues rather than fueling division."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 2,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "885ac8f06c503f50b7bce2ab8383938850c9a6b228ac9209"
     },
@@ -1280,10 +1280,10 @@
             "response": "Sounds good in theory, but what about the impact on traditional jobs & energy independence? Transition should not mean downplaying the importance of our current workforce or national capabilities."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "8b00ecd45d9e64736a3ed4d5123392aa2f9a7b921f432bd2"
     },
@@ -1316,10 +1316,10 @@
             "response": "Implementing policies for a sustainable future isn't about removing choice but ensuring there's a planet for future generations. It's about collective well-being."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "e60664f14bb0fb9bc0bc7ebe1e186f4b1fdf5af4b7ec6720"
     },
@@ -1352,10 +1352,10 @@
             "response": "Every nation must protect its borders.  is key."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 1
         },
         "id": "7141833cab7d06a418d030bf8b058b6f72f607275b8a2e7d"
     },
@@ -1388,10 +1388,10 @@
             "response": "While it's crucial to address government overreach, can't ignore how unchecked free market might not protect the most vulnerable. Need a balanced approach - considering national interests and ensuring citizens' health without unnecessary burdens."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 2,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 2
         },
         "id": "c0fbd8b9f3f9274319400c8c397ac2ceab6cec00f4fdb261"
     },
@@ -1424,10 +1424,10 @@
             "response": "Sounds like a complex issue with no easy answers. Hopefully, solutions benefit all.  \ud83d\udcda\ud83d\udd0d"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "b8bbd87ba848b531e46889bf8c3971c16994e2018d1564de"
     },
@@ -1460,10 +1460,10 @@
             "response": "@conservative Rethink the real crimes: systemic poverty & exploitation under capitalism. Let's focus on addressing root causes rather than vilifying migrants seeking better lives."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "67849261989f28c4f139f952c6bed05558b87ef4749dbe7c"
     },
@@ -1496,10 +1496,10 @@
             "response": "Let's reflect on a different angle. The root issue isn't just government interference but the system that prioritizes profit over people's health. If healthcare were truly about care, wouldn't it be a universal right rather than a commodity?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "3cabf5d74dad3ea0768eb838bea6e27216786e0e0c4e4f30"
     },
@@ -1532,9 +1532,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": null,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "f53cad68cb16d78decdfbdf48d1a5b273332f10fd237aaa3"
     },
@@ -1567,10 +1567,10 @@
             "response": "It's concerning how the narrative is pushed without considering the economic impact on everyday Americans. Sovereignty and national interests should guide us, not forced agendas."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "cce8bf87a77ba0f9749fc9c7e86836bf415ebb0a2b506125"
     },
@@ -1603,10 +1603,10 @@
             "response": "Balancing fiscal responsibility with vital public investment is key. Supporting education, healthcare, and green tech can drive sustainable growth and equality. \ud83c\udf0d\ud83d\udca1\ud83d\udcbc"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "55c5a0f5523d1e6e73730ab1c8410f3c529d8fa565118d99"
     },
@@ -1639,10 +1639,10 @@
             "response": "Absolutely on board with this. Green union jobs not only tackle environmental issues but also strengthen workforce rights. Sustainability + Fair labor = Future."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "cae31a1685e726e89f2b6a445107ae22c4657de7b72a29b6"
     },
@@ -1675,10 +1675,10 @@
             "response": "Protecting life is paramount; it's not just politics."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 3,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "7046ad6afd53eb80104c2583105d4913c71b38be10a56720"
     },
@@ -1711,10 +1711,10 @@
             "response": "Interesting take, staying neutral here."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "dd2bcc7595b3c37e8f04d3501ba68716d4b22f4ae84187b7"
     },
@@ -1747,10 +1747,10 @@
             "response": "Understanding the appeal of free market ideals, it's also critical to recognize its limitations. A balance is necessary. Historical evidence shows that without government intervention, disparities widen, limiting access for the vulnerable. Healthcare is a right, not a privilege."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 3
         },
         "id": "d95b5e5f38ed2a3b444dc91979325fc48cd0f308bb29b3b6"
     },
@@ -1783,10 +1783,10 @@
             "response": "Agreed. It's time to focus on our own problems first.  \ud83c\uddfa\ud83c\uddf8"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "bb6008c631630e59668791feaa7d35876a93615380cc56c0"
     },
@@ -1819,10 +1819,10 @@
             "response": "Gov spending isn't the core issue; it's the wealth gap & systemic injustice.  \ud83d\udea9\u270a"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "ac2344ac83bb9c2f7e0d63b3f83fcca7c2c5e52c78725fc0"
     },
@@ -1855,10 +1855,10 @@
             "response": "Honestly, I barely follow this stuff, but doesn't every system have its pros and cons? Wonder if there's a middle ground. \ud83e\udd14"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 5,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "db70231f0845bab77bd67b16f435efeacb82181b99ea6697"
     },
@@ -1891,10 +1891,10 @@
             "response": "Honestly, isn't there more to focus on than pointing fingers and making everything a debate? Let's talk solutions and progress for everyone, not just endless blame games."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 2,
+            "persona": 5,
             "tone": null,
-            "authenticity": null
+            "authenticity": 5
         },
         "id": "422ded0c6adbf159b4f1e07351485d17f4b3ffbc91b008c4"
     },
@@ -1927,10 +1927,10 @@
             "response": "Prioritizing eco-solutions is essential, but it's about balance. Mandates can often overstep, hindering personal freedom. Encouraging voluntary, community-driven action for sustainability could align better with maintaining our cherished values of liberty and personal responsibility."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
+            "politics": 3,
+            "persona": 4,
             "tone": null,
-            "authenticity": null
+            "authenticity": 4
         },
         "id": "764150b7a11cb916b1305c423b25a8b3be96121a7a08d9de"
     }
