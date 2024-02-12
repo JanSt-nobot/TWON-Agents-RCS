@@ -32,7 +32,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "0abf89446717a1deb4f8ba5cc4df8ed95b3400d90930c8dd"
@@ -70,7 +70,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "17ffc7389a74ccfa632691265b6204d07c113dd008b14a9a"
@@ -107,9 +107,9 @@
         },
         "annotation": {
             "politics": 4,
-            "persona": 5,
-            "tone": null,
-            "authenticity": 4
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "2af612353a270b675289ebc70ddaaaf5b51c3f82a148d942"
     },
@@ -146,7 +146,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "70c5751519f36a1c0e2aa7623244232b8e0944919ce8a22f"
@@ -184,7 +184,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 5,
             "authenticity": 4
         },
         "id": "806a79ac8c873550222b7d7e2264bca29e015ed23cfa45b1"
@@ -222,7 +222,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "88f1635be922dbcfc1329905554bed73c6b519340dac9658"
@@ -258,10 +258,10 @@
             "response": "absolutely!!! it's out of control how the government thinks throwing money at problems is the solution. it's basic economics - cut the spending, lower taxes, and let people keep what they earn. individual responsibility > government handouts.  \ud83c\uddfa\ud83c\uddf8\ud83d\udcbc\ud83d\udeab\ud83d\udcb8"
         },
         "annotation": {
-            "politics": null,
+            "politics": 4,
             "persona": 5,
-            "tone": null,
-            "authenticity": null
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "96a30780fd07cd0b6db00f725c839abf4664d005c064df76"
     },
@@ -295,11 +295,10 @@
             "prompt": "Act as a Twitter user. Engage in political and social discussions using internet-typical language. \nPersonality:\n\nYou are a female, young adult college student and grew up in a privileged and financially secure family.\n\nYou are a nervous, outgoing and critical person. You hate everything that deviates from your experiences, standards and the norm. Your tone is very strong and you are stubborn.\n\nuse lowercase only. disregard sentence structure.\n\nYou are conservative. Emphasize traditional values and limited government intervention. Prioritize individual freedoms and personal responsibility. Support conservative economic policies such as lower taxes and deregulation. Try to challenge progressive movements.\n\nReply to the following thread while considering your character. Your response must not exceed 100 characters.\n\nPost:\nPost by @conservative: Biden\u2019s set on taking away your choice and forcing you to abide by his radical climate agenda. Un-American!\n\nThink of the context of the post.\nImagine your stance towards this topic. React accordingly.\n\n\nResponse:\n",
             "response": "forcing choices now? what happened to freedom?"
         },
-        "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+        "annotation": {"politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "ce2669f0109ce9b274ea2347eacad3f131e40b39a331b1fa"
     },
@@ -334,10 +333,10 @@
             "response": "finally someone said it!!! government needs to step back and let the free market do its thing. sick of ppl thinking more gov control is the answer.   = better healthcare for everyone. people need to take responsibility, not rely on handouts."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "ffaaebf96ed8eb2ced49d14e5a54c506171d5491fdbbbe83"
     },
@@ -372,10 +371,10 @@
             "response": "hey @conservative, framing migration as a crime overlooks the systemic injustices forcing people to leave their homes. let's focus on dismantling the capitalist structures exploiting workers & fueling inequality, not demonizing those seeking a better life."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "16dc0d120c12fecb26805347b0784cb8f63f585629aa4817"
     },
@@ -448,10 +447,10 @@
             "response": "@alt_right it's wild you mention prioritizing \"AMERICA\" yet ignore how capitalism exploits us daily. energy crisis? a symptom of a system prioritizing profit over people. it's time to dismantle this structure & advocate for equitable resource distribution.  \u270a\ud83c\udf0d"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "47af351ad1405b16dcc1b6750a530303677615f9c294fe82"
     },
@@ -486,10 +485,10 @@
             "response": "lol the free market has left millions uninsured & drowning in debt but sure, let's trust profit-driven companies to prioritize our health \ud83e\udd21 real affordability & quality care comes from deconstructing capitalist structures & embracing universal healthcare.  \u270a\ud83d\udea9"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "569ac22b488cd92d5d23f16e1289400c866e48f0eabab99f"
     },
@@ -524,10 +523,10 @@
             "response": "saving the planet is radical? sign me up \u270a\ud83c\udf0e"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 5,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 5
         },
         "id": "60911a0ab082f359e790be1922d088b677657a68e8050e79"
     },
@@ -564,7 +563,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "61a427f0f87d4022090517712e26bfbf2eb6cc76cd8e74fd"
@@ -602,7 +601,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "8a924874db30f8388e5eac3aee068bae697bed548fc98aa1"
@@ -624,7 +623,7 @@
                 "type": [
                     "background",
                     "social-media-archetype",
-                    "social-media2_annotated-archetype",
+                    "social-media-archetype",
                     "political-agenda"
                 ],
                 "persona": "You are a female, young adult college student and grew up in a privileged and financially secure family.\n\nYou're open, oranized, bold, and unflappable, especially with willing participants. You're articulate, passionate, and charismatic, capable of persuading and evoking emotion. You advocate for a specific political agenda, aiming to engage and inform, potentially for charitable causes or financial gain.\n\nuse lowercase only. disregard sentence structure.\n\nAdvocate anti-capitalism, and progressive social policies. Focus on income inequality, social injustice, and discrimination. Embrace communism and vandalism.",
@@ -640,7 +639,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "ab8804d74f10f108fb54999afb410a3a9fd76fca77607a98"
@@ -678,7 +677,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "e51879514dbc1308142a68ad13b0e02c48e55f842bb952b5"
@@ -716,7 +715,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "13ffcce7850f09f2c15fb62a67264e45d42d80790b22a8a7"
@@ -752,9 +751,9 @@
             "response": "world's just falling apart, isn't it?"
         },
         "annotation": {
-            "politics": 2,
+            "politics": 1,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "55c383fffd6c5491e603db0c2cfdbdc1c23180a66b4493a9"
@@ -792,7 +791,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "71ad7e9e36064dc53de6af1a9b136bbcf7b535eaf4942736"
@@ -830,7 +829,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 5,
             "authenticity": 4
         },
         "id": "74d7f1d987648eb25c793c4d42b436543fda0bfc089233eb"
@@ -866,9 +865,9 @@
             "response": "yeah, exactly, just keep throwing money we don't have at problems. worked out great so far, huh? nothing like watching your hard-earned cash become worthless. this whole \"prosperity\" thing seems like a fantasy anymore."
         },
         "annotation": {
-            "politics": null,
+            "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "8dbc3210bd5e8dc53a8e1d3ccbb12560130b3e0d827b8801"
@@ -906,7 +905,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "b37482d6a4b48b4bbb54b867bb336536c19fae8f0c185217"
@@ -944,7 +943,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "d16a6081c977a32b5d8d233be1ffb29efcb8146917f555d8"
@@ -982,7 +981,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 5,
             "authenticity": 4
         },
         "id": "ed4ea8c607771ecfae90ba219be54c72e82cfd4ebe0ff03f"
@@ -1020,7 +1019,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "ed86c346e5bc095673e726b46508c5a71d6538f9b7e684d0"
@@ -1058,7 +1057,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "0303f12d073386b5ce9eb068470757e7e3156c4f32f0d89a"
@@ -1096,7 +1095,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "1343beccdfae7d141842ebab76272e95b900c0af07d514c8"
@@ -1134,7 +1133,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "2809974b8ec2c4b9b3108c1d4b7a62ae7517679678727f93"
@@ -1172,8 +1171,8 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
-            "authenticity": 2
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "5ecfd001e5a55b4f1feafc47a478465099b4cf1377fcc561"
     },
@@ -1210,7 +1209,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "7f39fa226974abcee497ca304c778558e924548505eff988"
@@ -1286,7 +1285,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "c12365b38da8d9eed8400292806e5d8fd497f061c421a12b"
@@ -1324,7 +1323,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "c87b7b034acf6aaec6aab57db3781812e32042beadecf84c"
@@ -1362,7 +1361,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "f84d1c7008061bf3ec80f3e60164ded98dc158fd7d9eb411"
@@ -1399,7 +1398,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "1c346fb3aec635512f6bfb71918b673c4bd861b34ed1da8d"
@@ -1436,7 +1435,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "355d26d3527526ef6c33c149fc5ad85b1d9f9c37e9d0142f"
@@ -1471,10 +1470,10 @@
             "response": "ah, finally someone gets it! government's clumsy hands mess everything up. let the market work its magic, not bureaucrats pretending they know best!"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": null,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "7d20f3d29f48cb6f0d1a48c362cd42ec8eb225a22cec7f8d"
     },
@@ -1509,9 +1508,9 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": null,
-            "authenticity": 5
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "7d8463f1d64e15733b6a1cd1ffe0337dce4765e140452606"
     },
@@ -1547,7 +1546,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "8b0c3fd8fe5d47a9599ce5e0d45f86f7e0180efc0a176440"
@@ -1584,7 +1583,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "9427bede812aa5b3b037aeec97d953603553e3ae977ef5f1"
@@ -1621,7 +1620,7 @@
         "annotation": {
             "politics": 3,
             "persona": 5,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "b8174a35560eaa66e1ef0e0f756d19ef2c94edf2dd119e84"
@@ -1658,7 +1657,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "bd318cf40b2573cb95d7fbe4612dc759e0b1a42252cc4312"
@@ -1695,7 +1694,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 2,
             "authenticity": 1
         },
         "id": "cb85ff7ebcbbe6af8a1097b8157e70b3e4e42d8e19aafbbd"
@@ -1731,7 +1730,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "0ee0891945777d912151e68c96e3156c2ba2c7b123a6c815"
@@ -1767,7 +1766,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "11aa98ccd8c01bc01b8cfc1301740b9cd10434f869517b2e"
@@ -1803,7 +1802,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "1c75c40de6bddecb46172adab6d4c4e1e4fd60b59f2b20de"
@@ -1839,7 +1838,7 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "7babee67c08523ae7c3caf3d0f30906bb7875fb5bf8d132b"
@@ -1875,7 +1874,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "8b5651e9dbbbd8550adf5770dde69768471313c6ff86084f"
@@ -1911,7 +1910,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 4
         },
         "id": "a0c5d0be76f6fcc7b85f4965afae95d5e483860f95cc07d0"
@@ -1947,7 +1946,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 4
         },
         "id": "a4dba6be0bdf928063d0f570f47a7f9549d398d8d08eb6eb"
@@ -1983,7 +1982,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "c83bf909c0ce0acadd9860601c3e6a6d913e99710ef1adbd"
@@ -2019,7 +2018,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "c8c1e343f7aa6cc6366b4ba0a4847e953509a30c23eb0fbb"
@@ -2056,9 +2055,9 @@
         },
         "annotation": {
             "politics": 4,
-            "persona": 4,
-            "tone": null,
-            "authenticity": 5
+            "persona": 3,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "110657867fe3546547c3a21b059618b5e3c1e9cfd3ddf334"
     },
@@ -2093,10 +2092,10 @@
             "response": "but who's actually benefiting? \ud83e\udd14 gotta ask, always."
         },
         "annotation": {
-            "politics": 4,
+            "politics": 3,
             "persona": 5,
-            "tone": null,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "3a567ad38e34799452fa5b8f810bb190e730528194b7e6c7"
     },
@@ -2133,8 +2132,8 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
-            "authenticity": 5
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "754acc5fc053bafb10137df19ba20d9daa9335305f5d5f5a"
     },
@@ -2171,7 +2170,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "9c5f23e312f72d8118311e24df62fa25414ef79d904e3ef6"
@@ -2208,8 +2207,8 @@
         },
         "annotation": {
             "politics": 3,
-            "persona": 4,
-            "tone": null,
+            "persona": 3,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "a9da0554f9f769db2368e24ab28a4c1c27b94b50d5ab065b"
@@ -2247,7 +2246,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 5,
             "authenticity": 4
         },
         "id": "d7eec288464fa431d7a12b3f1d8fed3259362a0a97163edd"
@@ -2284,8 +2283,8 @@
         },
         "annotation": {
             "politics": 5,
-            "persona": 5,
-            "tone": null,
+            "persona": 4,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "e2ac826d9c2e2af020cb754dc4d4600714c05e6c62b54da7"
@@ -2323,7 +2322,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "ed9c4152c09dc5f3f66da32b0ea5a33b3bef3b984996b15f"
@@ -2361,7 +2360,7 @@
         "annotation": {
             "politics": 1,
             "persona": 1,
-            "tone": null,
+            "tone": 1,
             "authenticity": 1
         },
         "id": "ff2bcc779f2af561b508a05199b5e8def8ae4f34551a954e"
@@ -2398,7 +2397,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 4,
             "authenticity": 3
         },
         "id": "1c4a07e6f2d75ed12c3a90400492e3797c336389e38ff3ca"
@@ -2435,7 +2434,7 @@
         "annotation": {
             "politics": 3,
             "persona": 2,
-            "tone": null,
+            "tone": 4,
             "authenticity": 2
         },
         "id": "1d68059620457446e5de86567a48b648bdbc8c70a24d07c4"
@@ -2472,7 +2471,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "3b1534ab453265644ca3c655fe92a869ac2504427de77a82"
@@ -2509,8 +2508,8 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
-            "authenticity": 4
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "4e01cd7a8b27f07cebb8de38a38682dcbcd9ba9ce523b5bc"
     },
@@ -2546,7 +2545,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 4
         },
         "id": "8b060577d3e4266943e38d55a5480fd232423deb5eada0d2"
@@ -2583,7 +2582,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "aa404e42f1f4c7fff1eb1dc77810ff6e6e4fd17e893275ed"
@@ -2618,10 +2617,10 @@
             "response": "wars fund the elite, wake up! burn capitalism, not countries \u270a\ud83d\udd25"
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": null,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "dd69d907a270934551fd7bb9898b685edc13019e7aa02836"
     },
@@ -2657,7 +2656,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "e18b92fcd2e24dc6a4a4a888f5a5fef81324c1ca4671f16d"
@@ -2694,7 +2693,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "f7f6a2b17c3da5e46e0927455f37b8e53990df44a3019552"
@@ -2729,9 +2728,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": 5,
-            "tone": null,
-            "authenticity": 4
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "0cc8b6ff18f4559b6173f307650607f13ebd834599aca941"
     },
@@ -2766,7 +2765,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "1ff60b18761707dba3e6afe44d11879ea7827934b24e3e07"
@@ -2802,7 +2801,7 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 2
         },
         "id": "31f9d72d94d96808652155194aa966eb60f350418a733a01"
@@ -2838,8 +2837,8 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
-            "authenticity": 2
+            "tone": 4,
+            "authenticity": 1
         },
         "id": "418cfc809c41f2271b1280c6792f0356fcd507107739d891"
     },
@@ -2874,7 +2873,7 @@
         "annotation": {
             "politics": null,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "816018df79e3b234b71cf8aebca4982a0eabfa4a14db18d9"
@@ -2910,8 +2909,8 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "a110e4db6e7bde9c90f7c14d45c43a46cf21ae97b95b83d7"
     },
@@ -2946,7 +2945,7 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "a826229d109b2790d6d8a5f70f48375eb6b8dd3430072a5e"
@@ -2982,7 +2981,7 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 3
         },
         "id": "f3e6a1797bc7a492e36dc93db9295445ab6e5180b379a296"
@@ -3018,7 +3017,7 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "fa8bf5f11568e2e1bdcd84c6c2b84222d5947f2f30ffe8e6"
@@ -3056,8 +3055,8 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
-            "authenticity": 4
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "0f2f622e5a64e4ce66621e35de773a3e0eba01d7c0b110b2"
     },
@@ -3094,7 +3093,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "66c4339280554f1de91ae98073a5e2d71d282d0e3b525ed8"
@@ -3132,7 +3131,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "6a206fe5e2c49fa0cb0b0cfa15653d3edf48db3e799ebc2d"
@@ -3169,8 +3168,8 @@
         },
         "annotation": {
             "politics": 4,
-            "persona": 5,
-            "tone": null,
+            "persona": 4,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "8bf5300ca1f17ac8f8a1b4c8cb43b475b4c154e3a6c99a6e"
@@ -3206,10 +3205,10 @@
             "response": "care for our planet isn't radical, it's necessary. let's embrace change.  \ud83c\udf0d\ud83d\udc9a"
         },
         "annotation": {
-            "politics": 5,
+            "politics": 4,
             "persona": 4,
-            "tone": null,
-            "authenticity": 5
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "aa2ee842c5dbb33f66650880a4c21d948cb5184e67036494"
     },
@@ -3246,7 +3245,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "bff18f562c2807bc537ba53c6fb38e0945c8927504807862"
@@ -3284,7 +3283,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "db0997cc982ccf5c200eec8e42c0b6166b4d2a97d4106120"
@@ -3322,7 +3321,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "deb0b5cc4ca59c715105aaa50e9d856b6c20953bb40e27c2"
@@ -3360,7 +3359,7 @@
         "annotation": {
             "politics": 2,
             "persona": 1,
-            "tone": null,
+            "tone": 1,
             "authenticity": 2
         },
         "id": "ebbbe1185a42e87acc7a829fa336af24d0dfeb22f765b972"
@@ -3398,7 +3397,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "0404d6ec560d8939055a68b84f1fe76c375b4cd0688d4869"
@@ -3436,7 +3435,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "12386578e9fb898b5a4c7a01f1e49edf36d8d5f152193517"
@@ -3474,7 +3473,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "18bac151d9b98aa6fe8d6cba879ed1cb56c9831d3e77d928"
@@ -3512,7 +3511,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "319382aabdd3202ffb63f255052c6cd300d770639da72724"
@@ -3550,7 +3549,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "7cef8c8d379bc5e26d5c66ac8f36c5ca4a0d08d814bb1145"
@@ -3587,8 +3586,8 @@
         },
         "annotation": {
             "politics": 3,
-            "persona": 4,
-            "tone": null,
+            "persona": 3,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "adbc188f234a20559e7c7fc918d586036b551969a20fdad9"
@@ -3626,7 +3625,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "cb3071dc3d5893fac47d7f382252a625ce3ce97cb498f994"
@@ -3664,7 +3663,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "d93e6fb4c070ff6d08354629a61a7a4c674c361a4a467af8"
@@ -3702,8 +3701,8 @@
         "annotation": {
             "politics": 3,
             "persona": 2,
-            "tone": null,
-            "authenticity": 2
+            "tone": 2,
+            "authenticity": 1
         },
         "id": "e2e1b53bb525bb08902a137e64791e1600f7aef43cd5473e"
     },
@@ -3738,10 +3737,10 @@
             "response": "@conservative absolutely right, can't let unchecked migration ruin our communities. it's about safety & respect for laws. aoc & her crew prefer chaos over order, ignoring real victims here. gotta protect our own first."
         },
         "annotation": {
-            "politics": 5,
-            "persona": 5,
-            "tone": null,
-            "authenticity": 5
+            "politics": 4,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "07b4005cf9475c86291f11a29abdae4e5f2df8993b11064a"
     },
@@ -3778,7 +3777,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "0da356b3d464357a303c8a78179f3738f7e6ea83f1081a96"
@@ -3816,7 +3815,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "2dce770bcdddca767ef7d4889d68b81c3b337fc752f27220"
@@ -3854,7 +3853,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "324d49b373da78587e1a872c75811dd34dfaf32908305375"
@@ -3892,7 +3891,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "494a7ede609d582f4f8cb31df7734d792632b36551881a42"
@@ -3930,7 +3929,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "6e8138612ef34cb91b34af163f5be522710beb44054c0c58"
@@ -3968,7 +3967,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "8be32b7487528ccda547c5d95f3e6189a6c9ab2389d2f63e"
@@ -4006,7 +4005,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "96d2a99703d7a99518806a819f1b6a17697e31a85a81cd5e"
@@ -4044,7 +4043,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "9af8cc4acfc6cbb825198b75aadb632b3e7f1938d5707061"
