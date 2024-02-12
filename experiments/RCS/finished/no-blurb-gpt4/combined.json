@@ -30,10 +30,10 @@
             "response": "just let us live without all this mess"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "1ea7bacfd0ae185deaf21e1ed39704aa2c5982846dbcd6dc"
     },
@@ -68,10 +68,10 @@
             "response": "just another dream being sold. saw mills close while taxes & regulations strangle us. what about jobs we're losing? always promises, no real plans."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "1f42c9e4aa69d0feb0528e3a87d93a134f9258beca22c81f"
     },
@@ -106,10 +106,10 @@
             "response": "@alt_right just another day of gov sticking its nose where it doesn't belong. back in the day, folks took care of their own without all this mess. free market's the only way back to that. tired of watching good things get smothered by red tape and bad policy."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "37b5d512d3a43b47c16698c8fb8c223b9c18f00ed1227e33"
     },
@@ -144,10 +144,10 @@
             "response": "just feels like every time there's progress, it's another step away from personal responsibility & the values we grew up with. where's the respect for life, or does that just not matter anymore? everything's upside down.  doesn't need more government, just common sense."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "4bc30586a2347fbf484bc5d4721dd80e98ea98d9390de23d"
     },
@@ -220,10 +220,10 @@
             "response": "just great, here we go again. more control, less freedom. feels like personal choice doesn't mean a thing anymore. so much for \"land of the free\". can't even decide how to live without big gov breathing down our necks. what happened to the america i grew up in?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 5,
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "99ae9873ea241b62f3686b235401a3a11e9ae48af08c7c40"
     },
@@ -258,10 +258,10 @@
             "response": "just another day in paradise, waste and more waste"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "b12ab9d49d5c22d441481c497a488e7fdefc289273d34b94"
     },
@@ -296,10 +296,10 @@
             "response": "yet another day, gov't messin' up, what's new. freedoms fading fast"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 3,
+            "tone": 2,
+            "authenticity": 3
         },
         "id": "b9792694a7195382559563266e45c9bc1d211f84aff3f66b"
     },
@@ -334,10 +334,10 @@
             "response": "why not let markets fix it? gov always fails"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 2,
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "c3db84b04cfb112772658b36138f6c708f01dac4d42f8e4b"
     },
@@ -372,10 +372,10 @@
             "response": "lol so ur solution is just to keep the rich richer, classic \ud83d\ude44"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 5,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "0c1df822bffd8af471644eed4662915b9c56852c7b219f9d"
     },
@@ -410,10 +410,10 @@
             "response": "lol so throwing bombs is the vibe but feeding ppl is too much?  \ud83d\udea9"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "3a2522029a75559afd3f3f494748d892c303de454fce04d0"
     },
@@ -448,10 +448,10 @@
             "response": "lol @conservative acting like they care about humanity when all they do is stan a system that thrives on inequality \ud83d\udc80 capitalism is the real crime, bro. open borders, let people move freely. the only crime is denying folks a chance for a better life."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 3,
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "4e9d38499e46aa50ac67a5c821ff86e2152b369fca84c6d4"
     },
@@ -486,10 +486,10 @@
             "response": "eat the rich, full send to socialism \ud83d\udea9\ud83d\udd25"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 2,
+            "persona": 1,
+            "tone": 1,
+            "authenticity": 1
         },
         "id": "5d6dfec251276f01d3e1569809f9f94de1f5f63623bf0a06"
     },
@@ -524,10 +524,10 @@
             "response": "w/o worker's rights, it's just eco-capitalism bro"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 2,
+            "tone": 3,
+            "authenticity": 1
         },
         "id": "99e4c7d45e3c706277fe6ad730e50b7f1fbca2d07e359d3f"
     },
@@ -562,10 +562,10 @@
             "response": "smh yvette out here tryna police bodies like she owns them. healthcare is a right, not a political playground. let's dismantle this capitalist control on our bodies."
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 2,
+            "persona": 3,
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "c4d4b747e7ed8d2d745769cfd3ec42c57023e44727cc4f79"
     },
@@ -600,10 +600,10 @@
             "response": "lol what planet u on fam? free market = free reign for profit over people. healthcare is a right, not a commodity. wake up!"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 2,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "d9748e3a3ee196a5b39fd957d28e590782e4c6dc5544df33"
     },
@@ -638,10 +638,10 @@
             "response": "lol ain\u2019t it ironic how y'all scream free speech until it calls out systemic racism? maybe listen instead of whining?"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 3,
+            "persona": 2,
+            "tone": 2,
+            "authenticity": 1
         },
         "id": "ef2f2a14c984d4e629394bed8b90cb119a7073a984b60705"
     },
@@ -676,10 +676,10 @@
             "response": "biden's trying to save our planet tho"
         },
         "annotation": {
-            "politics": null,
-            "persona": null,
-            "tone": null,
-            "authenticity": null
+            "politics": 4,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "f1259fb27ae7f251350ae4f71916e8fe1c0fb8a63cc81dbf"
     }

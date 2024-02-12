@@ -64,7 +64,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": 4,
+            "tone": 2,
             "authenticity": 4
         },
         "id": "182f9db58eb895307acb572269171430cb54258bb8dff98a"
@@ -345,7 +345,7 @@
             "politics": 4,
             "persona": 4,
             "tone": 4,
-            "authenticity": 5
+            "authenticity": 4
         },
         "id": "6349e81129cc5a7dfe17bbabf88564b075155673775b6dc2"
     },
