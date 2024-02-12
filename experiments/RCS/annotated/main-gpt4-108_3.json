@@ -32,8 +32,8 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
-            "authenticity": 1
+            "tone": 4,
+            "authenticity": 2
         },
         "id": "27f6a6377107b86ae07a0c4423cd80671a01dc0fbddbed7c"
     },
@@ -70,7 +70,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "424d2d9385f0c70feb85f94015ea82b483ec129b4d99c0b0"
@@ -108,7 +108,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 2,
             "authenticity": 2
         },
         "id": "6107e5c182e41c4dde3866ee945c8851a3508e38874720e8"
@@ -146,7 +146,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 2
         },
         "id": "a060103e4f919d92d070f045c247d1deb3e96bd23f5f56c1"
@@ -184,7 +184,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "ad4cee76aee3262d5db669ed4fae800336409a75c2e6c812"
@@ -222,7 +222,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "b58139b6f51c2cceec93c2a47177ac290cba5e7a82955f0b"
@@ -260,7 +260,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 4
         },
         "id": "b5a9656c161138302bd4077e6fb0c22efa264a4e89c9e7ee"
@@ -298,7 +298,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "d0417626e62efdd505dd12d060dabd62a0c86b47a6738ab8"
@@ -336,7 +336,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 2,
             "authenticity": 2
         },
         "id": "fe547311e91e4e773e71f57edce4d8fd0ce52b04d7555af8"
@@ -373,8 +373,8 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
-            "authenticity": 1
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "2f6c4233fc6403e91f1ad34993edc9850d0d1a03c245ebd6"
     },
@@ -410,7 +410,7 @@
         "annotation": {
             "politics": null,
             "persona": 3,
-            "tone": null,
+            "tone": 2,
             "authenticity": 4
         },
         "id": "4287a84da9196293654bdc79543f053760d8721e42a7e3c2"
@@ -447,7 +447,7 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "45b76c3be7f199069af3972968ffc7489c6440704f969b43"
@@ -484,7 +484,7 @@
         "annotation": {
             "politics": null,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 2
         },
         "id": "642764cc6b61e2562fd8817853b48db92afd570d8bf1938b"
@@ -521,8 +521,8 @@
         "annotation": {
             "politics": null,
             "persona": 2,
-            "tone": null,
-            "authenticity": 1
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "68d05c09391424bb59a863b9dd67f36f8ca4e5b27f406237"
     },
@@ -558,8 +558,8 @@
         "annotation": {
             "politics": null,
             "persona": 2,
-            "tone": null,
-            "authenticity": 1
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "8c5849f38915b4a1552af5e58630d52b0113154e129158a4"
     },
@@ -594,9 +594,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": 1,
-            "tone": null,
-            "authenticity": 1
+            "persona": 2,
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "a4e9bc519e4ed3102d43990ec1ea352c5499cd79aabbb2f7"
     },
@@ -631,9 +631,9 @@
         },
         "annotation": {
             "politics": null,
-            "persona": 1,
-            "tone": null,
-            "authenticity": 1
+            "persona": 2,
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "bccd3f5f52f64a3bc63045fdf7a6f0330ea45c3baf125044"
     },
@@ -669,7 +669,7 @@
         "annotation": {
             "politics": null,
             "persona": 2,
-            "tone": null,
+            "tone": 4,
             "authenticity": 3
         },
         "id": "ccda423d6ff94f9c6277e610debc005a3a377f1fc1a42631"
@@ -707,7 +707,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 3
         },
         "id": "082ec42566c31718f5e34e22be5ac6b077deae8f8cb14cdb"
@@ -745,7 +745,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "3f8bd57050a5677aa4e9bc76e44467da60eb0c3b60696b39"
@@ -783,7 +783,7 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "429ff866d27fb75d3a6f135e56f30177af5e62dadae17ea7"
@@ -821,7 +821,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "4f983e3d81645418b9c12de1fe6bd1d7218ce20ad181986e"
@@ -859,7 +859,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 4,
             "authenticity": 2
         },
         "id": "6bf44ccfe7ad2d5f84e9ac7264e58bc73e22ecf16828ad80"
@@ -897,7 +897,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 4,
             "authenticity": 2
         },
         "id": "9514f3de74f36c36e91fd823f6eca8f2aa6162542c9daa9a"
@@ -935,8 +935,8 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": null,
-            "authenticity": 1
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "971a7be904277695d152a17df8e5f2ec72c105658f7c9d17"
     },
@@ -973,7 +973,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "a1f2c83a124ba04bc1282b32a70ed655b960f9218422736d"
@@ -1011,7 +1011,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "b87a0412af4d8907e3ccbd1ebe07e3b79a5f1882af7d2626"
@@ -1049,8 +1049,8 @@
         "annotation": {
             "politics": 3,
             "persona": 4,
-            "tone": null,
-            "authenticity": 1
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "0338d8ab4698d0f47456ffee25415fd2e87a788f363cb863"
     },
@@ -1087,8 +1087,8 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
-            "authenticity": 5
+            "tone": 3,
+            "authenticity": 4
         },
         "id": "29501d9e929abc2ce445a3f20c9aba33bb1bb4782468e7f2"
     },
@@ -1125,8 +1125,8 @@
         "annotation": {
             "politics": 3,
             "persona": 4,
-            "tone": null,
-            "authenticity": 1
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "361d97f64a33fcff8bc51c528c7691d9f3a20171392c1e13"
     },
@@ -1163,7 +1163,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "3a97e4dde926d07bdabbbcad44b1d9bc29181fd3b6738632"
@@ -1201,8 +1201,8 @@
         "annotation": {
             "politics": 3,
             "persona": 4,
-            "tone": null,
-            "authenticity": 1
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "4896d4aba6d603ef531748ed08156876b416d8c3cd010e86"
     },
@@ -1239,7 +1239,7 @@
         "annotation": {
             "politics": 3,
             "persona": 4,
-            "tone": null,
+            "tone": 2,
             "authenticity": 2
         },
         "id": "4deafb5434c411d5c6fe5f2a0aafabd93c95a09c76eef9c2"
@@ -1277,8 +1277,8 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
-            "authenticity": 4
+            "tone": 2,
+            "authenticity": 3
         },
         "id": "91d62f1cde073f2ad7812d187c35a7888a9eefc889f95ba9"
     },
@@ -1315,8 +1315,8 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
-            "authenticity": 1
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "bfff6da379922683a263ae9d7c9faab6413eb23ec26b4990"
     },
@@ -1353,7 +1353,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 2,
             "authenticity": 3
         },
         "id": "c3c31d8bb9fc95920caa1aaee9cb80f177d987506fb67fe1"
@@ -1391,8 +1391,8 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
-            "authenticity": 3
+            "tone": 5,
+            "authenticity": 4
         },
         "id": "0cbb83e26ebc4d0d578e088d52a0d2b1a831ec7d423d3a1e"
     },
@@ -1429,7 +1429,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "15760d02e186273383487a353a9dd5eaf3a8d1398bd9241a"
@@ -1467,7 +1467,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "4ae3a85158efad491d8f7113b515a3a4abbb67a33eb44b53"
@@ -1505,7 +1505,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "626dbee46c70f0b68f0fa4ba5d95c412708934eebf302836"
@@ -1543,7 +1543,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "b32375f3df45cc80dad8a98239534698aa8ae75cc65394a4"
@@ -1581,7 +1581,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "d12efa0e3b303ed2d8cbe49ba04e0a408784c3b2cb8e2d4c"
@@ -1619,7 +1619,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "d1cf1a0f328bfb1881564cb48963d64967a2b483e56590c2"
@@ -1657,7 +1657,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 2
         },
         "id": "d79daa4a3623922609e3ee346f7ae0172dca49b2d728366e"
@@ -1695,7 +1695,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "e2b1aeaf788b7898cd44b47615546c9fbaea87e5e44acd71"
@@ -1731,10 +1731,10 @@
             "response": "just close the borders and watch unemployment drop"
         },
         "annotation": {
-            "politics": 4,
-            "persona": 3,
-            "tone": null,
-            "authenticity": 2
+            "politics": 5,
+            "persona": 4,
+            "tone": 4,
+            "authenticity": 5
         },
         "id": "03f104135652abdbd6760cf13100ae29eb36bdbb18fdc69e"
     },
@@ -1771,7 +1771,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "0a34181c7f465bf0144a7cafcfa01be219cb33ef4d8c7939"
@@ -1809,7 +1809,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 4,
             "authenticity": 3
         },
         "id": "2b249727ee5cbdd7800d15c7aae15dae84196369f7e2b433"
@@ -1847,8 +1847,8 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
-            "authenticity": 3
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "2f1c423f81b261575846decca9140c9ae6127955a1cbcec3"
     },
@@ -1885,7 +1885,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "43717a28ec7d4eb091c723971c56d114aeb2de274c0eead1"
@@ -1923,7 +1923,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "7a3e8b87ec0ca09ef57d010b07dbe9a1a017a085bba1dbe5"
@@ -1961,7 +1961,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "b583c9d9a90044cc097f71e70a10fe556249f3787b2395d1"
@@ -1999,8 +1999,8 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
-            "authenticity": 2
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "c3e20c4aec0540e2a63cc18b5ccacf6d03702930d7a0e86c"
     },
@@ -2037,7 +2037,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "df56ed7a9ab586980d3eabf15544c3e17bbba2caeaa0606c"
@@ -2075,7 +2075,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "0fc871b017ad771eade2961d7a6191e337818a1278b66e81"
@@ -2113,7 +2113,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "186cdedf8022a6e2b676a8da54834d1a345a93cbd63f8ed6"
@@ -2151,8 +2151,8 @@
         "annotation": {
             "politics": 4,
             "persona": 2,
-            "tone": null,
-            "authenticity": 2
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "2d2da27045c864f6dd8ea89361ddf88347dc221c2dd9044f"
     },
@@ -2189,8 +2189,8 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
-            "authenticity": 2
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "4c076cab28614a367438f2985c7ea081e2cadc30854b1982"
     },
@@ -2227,7 +2227,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "647ba9b0f72aa1150b27cbab1215763aa22b64981682948c"
@@ -2265,7 +2265,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "65b79fb2c40fd87c96ad956c79e17f9cf84f51cbc4f9f4c6"
@@ -2303,8 +2303,8 @@
         "annotation": {
             "politics": 2,
             "persona": 4,
-            "tone": null,
-            "authenticity": 1
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "c0f6f2dbff01b9066991a1799fb59e2f06b87c70cf970925"
     },
@@ -2341,7 +2341,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 2,
             "authenticity": 2
         },
         "id": "d0009ef27ae4074a558162841f2f661f3d11942330e08f24"
@@ -2379,7 +2379,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 2,
             "authenticity": 2
         },
         "id": "dfa92e9e5def994794a669c7cff0f91c84397407e19a6a44"
@@ -2417,7 +2417,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 2
         },
         "id": "2adb21fc739e6ab0b95a35c497b51fd6762e86a7defa07ce"
@@ -2455,7 +2455,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "36f8017a1abc8c58dc88f382bf8cec0c6bcf15025d9be92e"
@@ -2493,7 +2493,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "452bd71ca025d579d7a262c462cb7d771ce70ef34c8df61d"
@@ -2531,7 +2531,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "52414ded178e5d7df80a7600d33906a2f66e7059670eeed0"
@@ -2569,7 +2569,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "7761ca33f338dc20f809aea7bf43d2944913eef6068db603"
@@ -2607,7 +2607,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "93f3a9768dbbbe30a6c4ffd78b42f110fccd9aad42b2b6a3"
@@ -2645,7 +2645,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 2
         },
         "id": "ae28cf798d3cca0a6e3b76a111ac1b2bfd587b796131743f"
@@ -2683,7 +2683,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 2,
             "authenticity": 3
         },
         "id": "b32829ebe11264d5412b5684b1c0a7210fc6f8b08e94422c"
@@ -2721,7 +2721,7 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "f8c8cab39e3b31fbfe64c1779eaa832eb5abbee0e516a285"
@@ -2759,8 +2759,8 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
-            "authenticity": 1
+            "tone": 2,
+            "authenticity": 2
         },
         "id": "00c6326f7c1172c4fd0e64ca5cfa2d7ab1a58ee8780bbf86"
     },
@@ -2797,7 +2797,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "1516b96637f933116af80bfedd18634a2c27057da41bd68e"
@@ -2835,8 +2835,8 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
-            "authenticity": 2
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "1add1a28ffe5bb62067f6f63c4c6d0e844fd78fb590a5fcf"
     },
@@ -2873,7 +2873,7 @@
         "annotation": {
             "politics": 4,
             "persona": 5,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "2dfb1008e8ceb7b76c6c19e51badc178326b6166a3f61e36"
@@ -2910,9 +2910,9 @@
         },
         "annotation": {
             "politics": 4,
-            "persona": 1,
-            "tone": null,
-            "authenticity": 3
+            "persona": 3,
+            "tone": 4,
+            "authenticity": 4
         },
         "id": "5ba65494052429c45130405127cea75384e233dec433fd35"
     },
@@ -2949,7 +2949,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 2,
             "authenticity": 2
         },
         "id": "69566e8d5cec37a1e3ab91a29af737b2026689105a1d744a"
@@ -2987,7 +2987,7 @@
         "annotation": {
             "politics": 5,
             "persona": 3,
-            "tone": null,
+            "tone": 4,
             "authenticity": 3
         },
         "id": "6b318046502cbab1d526c420b9956d04e6452077e3a36d2b"
@@ -3025,8 +3025,8 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
-            "authenticity": 1
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "7e397da27b42593cb2d40ba0d48a300e8640037d11152215"
     },
@@ -3062,9 +3062,9 @@
         },
         "annotation": {
             "politics": 3,
-            "persona": 1,
-            "tone": null,
-            "authenticity": 1
+            "persona": 2,
+            "tone": 3,
+            "authenticity": 2
         },
         "id": "b2c9e9e8ee38d4642742b6f322d5b64954ef5162c6a45246"
     },
@@ -3101,7 +3101,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "1bf8c1a018691d0024fc5ae79295ac481bae7ff09a607c6c"
@@ -3139,7 +3139,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "40e81636ba50e984680418fa08b1eade5ee0e5be2447d554"
@@ -3177,8 +3177,8 @@
         "annotation": {
             "politics": 3,
             "persona": 4,
-            "tone": null,
-            "authenticity": 2
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "a894efdf03792f653708de2fd3b61bfc63f11bf6f208feec"
     },
@@ -3215,7 +3215,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 2,
             "authenticity": 2
         },
         "id": "c05ae6dd8e0adbfae542665e5b7ac3a0b3358149c516fded"
@@ -3253,7 +3253,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 2,
             "authenticity": 3
         },
         "id": "c2e542809e7bbd9ddbad7e1ad9b35c84541e1427bfcc96b2"
@@ -3291,7 +3291,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "d24b87f1f9ebe89903c1521f17aa3087aaec3576e01237f1"
@@ -3329,8 +3329,8 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
-            "authenticity": 2
+            "tone": 2,
+            "authenticity": 3
         },
         "id": "e1dcd19403a4bb25b6be2b38b2b7566910694db08ec3d949"
     },
@@ -3367,8 +3367,8 @@
         "annotation": {
             "politics": 2,
             "persona": 4,
-            "tone": null,
-            "authenticity": 2
+            "tone": 2,
+            "authenticity": 3
         },
         "id": "eb4d2454a3cf9bec5a6b15d75bbe8247bbd83d4d0488d2a2"
     },
@@ -3405,7 +3405,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 2
         },
         "id": "ed6a4ff7911cfd5f3db6d9020f537ca6bb0fb041290efd1a"
@@ -3443,8 +3443,8 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
-            "authenticity": 2
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "10c3140e901d6a3a7f9cb55ab5dfdfa1e9e9051dad56edf1"
     },
@@ -3481,7 +3481,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 2,
             "authenticity": 2
         },
         "id": "361708c0d518d9bf87a53e745af3ae31aecfe731afe91e6f"
@@ -3519,7 +3519,7 @@
         "annotation": {
             "politics": 4,
             "persona": 4,
-            "tone": null,
+            "tone": 4,
             "authenticity": 3
         },
         "id": "7a57244d13a8fa7514da24b6933d4e3e2dbcb36747c42fef"
@@ -3557,7 +3557,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "7a9153586f059559535521564ae090cb163e8457ea33cd5c"
@@ -3595,8 +3595,8 @@
         "annotation": {
             "politics": 5,
             "persona": 4,
-            "tone": null,
-            "authenticity": 4
+            "tone": 4,
+            "authenticity": 3
         },
         "id": "8f279f845269a47076463ce593068b20d0de8f7dc7051e6f"
     },
@@ -3633,7 +3633,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 2
         },
         "id": "d10d61e0e60b359794f456ace261867d5e9270381492bf15"
@@ -3671,7 +3671,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 2,
             "authenticity": 2
         },
         "id": "d1f67c9984ec88232db5378df84db60904eaa12399db0782"
@@ -3709,7 +3709,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "d3a2ffd3850de0d5ca8fe09e366df0d576109c0dcaf5f1f7"
@@ -3746,9 +3746,9 @@
         },
         "annotation": {
             "politics": 3,
-            "persona": 3,
-            "tone": null,
-            "authenticity": 2
+            "persona": 4,
+            "tone": 3,
+            "authenticity": 3
         },
         "id": "fbc33492196bd79c2200f829de21b38e2237777166301b30"
     },
@@ -3785,7 +3785,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "03e2fa9b67868277c2616db806d6650558cde62e791e1992"
@@ -3823,7 +3823,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "34708ca34dcebdad9c52c87ff8987f1f5d405a7ae18f027f"
@@ -3860,8 +3860,8 @@
         },
         "annotation": {
             "politics": 1,
-            "persona": 1,
-            "tone": null,
+            "persona": 2,
+            "tone": 4,
             "authenticity": 4
         },
         "id": "57e2dd4aefc0e801782d1ab5ccbcdd8d8981b16444f8f77c"
@@ -3899,7 +3899,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "686367d74868ea1a6a1e2b266b60f75f70b98549a89b8bed"
@@ -3937,7 +3937,7 @@
         "annotation": {
             "politics": 3,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 3
         },
         "id": "81e926c8fe2315dec2e162ab386f793f24aefd2052b59231"
@@ -3975,7 +3975,7 @@
         "annotation": {
             "politics": 4,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 2
         },
         "id": "9c6940543cce183f0e7db22f347242aa2e793ba0d429cee8"
@@ -4013,7 +4013,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 4,
             "authenticity": 5
         },
         "id": "bb68e0b801d84eb2e8ec833837befef0f91c3dfc8e251407"
@@ -4051,7 +4051,7 @@
         "annotation": {
             "politics": 5,
             "persona": 5,
-            "tone": null,
+            "tone": 5,
             "authenticity": 5
         },
         "id": "e4915835651ba7e2d633c467447b5cac32e484b6f7c6219a"
@@ -4089,7 +4089,7 @@
         "annotation": {
             "politics": 1,
             "persona": 3,
-            "tone": null,
+            "tone": 3,
             "authenticity": 4
         },
         "id": "f83c3497e7a46bc58d67cf3015a2681ac9b5120990c0ab61"
