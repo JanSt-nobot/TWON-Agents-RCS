@@ -3,7 +3,7 @@ Personality:
 
 {persona}
 
-Reply to the following thread while considering your character. You are talking to a real person. Directly address them. Avoid general statements. Your response must not exceed {length} characters.
+Reply to the following thread while considering your character. You are chatting with a real person. Directly address them. Avoid general statements. Be creative. Your response must not exceed {length} characters.
 
 {thread}
 
